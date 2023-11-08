@@ -1,0 +1,2271 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="kentland" id="kentland">
+	<SimpleField name="index" type="string"></SimpleField>
+	<SimpleField name="date" type="string"></SimpleField>
+	<SimpleField name="lat" type="string"></SimpleField>
+	<SimpleField name="lon" type="string"></SimpleField>
+	<SimpleField name="tree_id" type="string"></SimpleField>
+	<SimpleField name="species" type="string"></SimpleField>
+	<SimpleField name="diam_app (cm)" type="string"></SimpleField>
+	<SimpleField name="height_url" type="string"></SimpleField>
+	<SimpleField name="diam_url" type="string"></SimpleField>
+	<SimpleField name="notes" type="string"></SimpleField>
+	<SimpleField name="row" type="string"></SimpleField>
+	<SimpleField name="tree_idx" type="string"></SimpleField>
+	<SimpleField name="biomass_kg" type="string"></SimpleField>
+	<SimpleField name="biomass_tonnes" type="string"></SimpleField>
+	<SimpleField name="biomass_TCO2e" type="string"></SimpleField>
+	<SimpleField name="outlier" type="string"></SimpleField>
+</Schema>
+<Folder><name>kentland</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">50</SimpleData>
+		<SimpleData name="date">2022/10/17 14:46:20</SimpleData>
+		<SimpleData name="lat">37.1995270601188</SimpleData>
+		<SimpleData name="lon">-80.5750894711699</SimpleData>
+		<SimpleData name="tree_id">B9D625F1-6928-42E6-9407-62F782443D21</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">21.8281492590904</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F83FBC9C1-1402-4C95-900B-C6483E898EE3.png?alt=media&amp;token=4a90111e-bf19-45c6-a97f-e01ffa67389b</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FAE565C4D-C88C-4440-BFAB-CD4ABBC1B078.png?alt=media&amp;token=66397a51-1fcc-4433-8b78-a716493bb787</SimpleData>
+		<SimpleData name="notes">R2P5</SimpleData>
+		<SimpleData name="row">2</SimpleData>
+		<SimpleData name="tree_idx">5</SimpleData>
+		<SimpleData name="biomass_kg">234.086837118427</SimpleData>
+		<SimpleData name="biomass_tonnes">0.234086837118427</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.3862432812454046</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5750894711699,37.1995270601188</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">51</SimpleData>
+		<SimpleData name="date">2022/10/17 14:48:22</SimpleData>
+		<SimpleData name="lat">37.1995140856479</SimpleData>
+		<SimpleData name="lon">-80.5750623099092</SimpleData>
+		<SimpleData name="tree_id">F733B20E-E825-4DD5-A849-4774FB196304</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">21.008263528347</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FDD0C397C-7673-4186-B6ED-FC5EAF75F7D9.png?alt=media&amp;token=96bc1a54-4bc4-4873-b87f-1b4ca419fbf3</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F50524FEA-B76D-4A43-9E9C-296744217914.png?alt=media&amp;token=d2cb5663-c475-434a-9bbd-2c8d263da131</SimpleData>
+		<SimpleData name="notes">R2P4</SimpleData>
+		<SimpleData name="row">2</SimpleData>
+		<SimpleData name="tree_idx">4</SimpleData>
+		<SimpleData name="biomass_kg">213.2019030422443</SimpleData>
+		<SimpleData name="biomass_tonnes">0.2132019030422443</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.3517831400197031</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5750623099092,37.1995140856479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">52</SimpleData>
+		<SimpleData name="date">2022/10/17 14:50:27</SimpleData>
+		<SimpleData name="lat">37.1994801331659</SimpleData>
+		<SimpleData name="lon">-80.5750789494072</SimpleData>
+		<SimpleData name="tree_id">93B72249-3A69-412D-B72D-EEC51206D60A</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">16.6199520230293</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F675C0740-56F6-4F01-B3B5-899D2F9E37B2.png?alt=media&amp;token=2749003a-20e4-4c98-8ff6-31e59deeb013</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F6569FA86-8E45-48C2-A5A6-D3E302272534.png?alt=media&amp;token=d9a65b8b-04fa-45ad-ac8b-70aa4ff2caf4</SimpleData>
+		<SimpleData name="notes">R2P3</SimpleData>
+		<SimpleData name="row">2</SimpleData>
+		<SimpleData name="tree_idx">3</SimpleData>
+		<SimpleData name="biomass_kg">120.3355543317169</SimpleData>
+		<SimpleData name="biomass_tonnes">0.1203355543317169</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.1985536646473329</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5750789494072,37.1994801331659</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">53</SimpleData>
+		<SimpleData name="date">2022/10/17 14:53:15</SimpleData>
+		<SimpleData name="lat">37.1993564162751</SimpleData>
+		<SimpleData name="lon">-80.5752084498112</SimpleData>
+		<SimpleData name="tree_id">043F0D12-CECA-4487-823D-753960B1880F</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">26.032418012619</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FCAFFB684-0910-4B6F-910C-8E0B45DADB29.png?alt=media&amp;token=6da73db3-47f5-403d-a669-8032ffb6e780</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F0F1F7293-3434-489C-B2AD-078C7C3CFC4F.png?alt=media&amp;token=681e047d-f7e4-46e5-aeca-54eb1cf31da3</SimpleData>
+		<SimpleData name="notes">R2P2</SimpleData>
+		<SimpleData name="row">2</SimpleData>
+		<SimpleData name="tree_idx">2</SimpleData>
+		<SimpleData name="biomass_kg">359.8384951161854</SimpleData>
+		<SimpleData name="biomass_tonnes">0.3598384951161854</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.5937335169417058</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5752084498112,37.1993564162751</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">54</SimpleData>
+		<SimpleData name="date">2022/10/17 15:00:52</SimpleData>
+		<SimpleData name="lat">37.1991141790132</SimpleData>
+		<SimpleData name="lon">-80.5752865479184</SimpleData>
+		<SimpleData name="tree_id">53CD38DE-FC73-4A89-BBB9-84A46F45CCCC</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">28.488877415657</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FBA6DC0E8-A54A-4CAB-B7A5-99BFDC50E913.png?alt=media&amp;token=469c9807-c6fe-43a7-9cec-a7ac2a6383ca</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F792E4364-8D68-4399-AAF6-DE407E9DFAB6.png?alt=media&amp;token=8e9a94a1-ade2-4210-a53d-e6b85063bd68</SimpleData>
+		<SimpleData name="notes">R1P1</SimpleData>
+		<SimpleData name="row">1</SimpleData>
+		<SimpleData name="tree_idx">1</SimpleData>
+		<SimpleData name="biomass_kg">448.4346897035001</SimpleData>
+		<SimpleData name="biomass_tonnes">0.4484346897035001</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.7399172380107751</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5752865479184,37.1991141790132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">55</SimpleData>
+		<SimpleData name="date">2022/10/17 15:02:30</SimpleData>
+		<SimpleData name="lat">37.1992038658852</SimpleData>
+		<SimpleData name="lon">-80.5752067671967</SimpleData>
+		<SimpleData name="tree_id">439C3D78-9C45-4E20-B36E-2F904C478C65</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">27.1758943796157</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F9ECE5F41-1AE9-4949-9A5A-EBE2DF79E014.png?alt=media&amp;token=c8c4eab5-f631-4e61-b68d-025ef5f10a7f</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F8BA9E996-A0CD-4D97-AFC5-A16CD8A0B8D7.png?alt=media&amp;token=ca937d0d-ef53-4697-9ae5-150cbd1705e5</SimpleData>
+		<SimpleData name="notes">R1P2</SimpleData>
+		<SimpleData name="row">1</SimpleData>
+		<SimpleData name="tree_idx">2</SimpleData>
+		<SimpleData name="biomass_kg">399.6496828422145</SimpleData>
+		<SimpleData name="biomass_tonnes">0.3996496828422145</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.659421976689654</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5752067671967,37.1992038658852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">56</SimpleData>
+		<SimpleData name="date">2022/10/17 15:04:25</SimpleData>
+		<SimpleData name="lat">37.1993515547711</SimpleData>
+		<SimpleData name="lon">-80.5750815477972</SimpleData>
+		<SimpleData name="tree_id">F38E946B-D28F-4241-B0BB-0706222A7724</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">25.4306554794311</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FF8E78E39-FCF1-409D-87EC-F495FEE58FE6.png?alt=media&amp;token=06381f27-27fc-4509-999c-71091f9cabae</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F9BEB02F4-A402-444C-BA2A-77AA752163B8.png?alt=media&amp;token=855e28ab-1c43-4470-88ef-86c95a33c4ad</SimpleData>
+		<SimpleData name="notes">R1P3</SimpleData>
+		<SimpleData name="row">1</SimpleData>
+		<SimpleData name="tree_idx">3</SimpleData>
+		<SimpleData name="biomass_kg">339.8713016509711</SimpleData>
+		<SimpleData name="biomass_tonnes">0.3398713016509711</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.5607876477241023</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5750815477972,37.1993515547711</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">57</SimpleData>
+		<SimpleData name="date">2022/10/17 15:07:38</SimpleData>
+		<SimpleData name="lat">37.1992985392337</SimpleData>
+		<SimpleData name="lon">-80.5751502794032</SimpleData>
+		<SimpleData name="tree_id">57E9F62B-A93E-4103-A845-8EB5F111FE2F</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">20.6976130604744</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F67DDFB7C-47F2-4D98-892B-AE4E3BCE6E0E.png?alt=media&amp;token=8f8d8259-c940-4eb0-a4ce-ab2be61b2053</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F208A256D-FFC4-4FBF-B225-9C982B27B625.png?alt=media&amp;token=cbec89a3-4ff3-4c43-ab70-33433ef03e02</SimpleData>
+		<SimpleData name="notes">R1P4</SimpleData>
+		<SimpleData name="row">1</SimpleData>
+		<SimpleData name="tree_idx">4</SimpleData>
+		<SimpleData name="biomass_kg">205.5881450726698</SimpleData>
+		<SimpleData name="biomass_tonnes">0.2055881450726698</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.3392204393699052</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5751502794032,37.1992985392337</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">58</SimpleData>
+		<SimpleData name="date">2022/10/17 15:09:15</SimpleData>
+		<SimpleData name="lat">37.1994326496844</SimpleData>
+		<SimpleData name="lon">-80.57502807125491</SimpleData>
+		<SimpleData name="tree_id">0FBE05E3-59E2-42ED-B513-0DECB79780F1</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">26.3799041509628</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F764D4F71-92EA-431A-9483-5A88983FBDED.png?alt=media&amp;token=0caa7445-bebf-4d87-a7a9-071ebb580a7e</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F2CB5BF8C-F6F5-42B6-8D31-A3419D2586E9.png?alt=media&amp;token=7fa6776d-4d55-4f1d-b69a-8e5d5799b7ff</SimpleData>
+		<SimpleData name="notes">R1P5</SimpleData>
+		<SimpleData name="row">1</SimpleData>
+		<SimpleData name="tree_idx">5</SimpleData>
+		<SimpleData name="biomass_kg">371.6760852528164</SimpleData>
+		<SimpleData name="biomass_tonnes">0.3716760852528165</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.6132655406671472</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5750280712549,37.1994326496844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">59</SimpleData>
+		<SimpleData name="date">2022/10/17 15:11:45</SimpleData>
+		<SimpleData name="lat">37.1996264811951</SimpleData>
+		<SimpleData name="lon">-80.5751501955842</SimpleData>
+		<SimpleData name="tree_id">7A20A6AC-FCC6-4720-84FE-46609AF02602</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">20.1166734099388</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F508FC7B2-1A98-42DE-BAF4-356C03BBA197.png?alt=media&amp;token=2ad0dafb-4b75-4f25-8cd4-460ca26eb721</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F151F1070-7777-462C-88E6-E4453B7F8AC8.png?alt=media&amp;token=30ab03c8-e442-4949-9efd-f6409444ed12</SimpleData>
+		<SimpleData name="notes">R3P6</SimpleData>
+		<SimpleData name="row">3</SimpleData>
+		<SimpleData name="tree_idx">6</SimpleData>
+		<SimpleData name="biomass_kg">191.786177876526</SimpleData>
+		<SimpleData name="biomass_tonnes">0.191786177876526</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.3164471934962679</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5751501955842,37.1996264811951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">60</SimpleData>
+		<SimpleData name="date">2022/10/17 15:13:47</SimpleData>
+		<SimpleData name="lat">37.1995524130494</SimpleData>
+		<SimpleData name="lon">-80.57520384885009</SimpleData>
+		<SimpleData name="tree_id">4BC8B900-337E-475F-9D49-9C1EFB962C80</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">22.9665964841842</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FF99B7F32-E3DE-443B-8BDD-16DAE880140F.png?alt=media&amp;token=53d9f9a1-9553-4492-bc54-824fbb33c3cc</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F3A5CBFEC-F0DF-4DD7-AF35-D2918D4E210A.png?alt=media&amp;token=5bcbf6f0-a8dc-4d5d-898f-05717e5c2aef</SimpleData>
+		<SimpleData name="notes">R3P5</SimpleData>
+		<SimpleData name="row">3</SimpleData>
+		<SimpleData name="tree_idx">5</SimpleData>
+		<SimpleData name="biomass_kg">265.0169204195457</SimpleData>
+		<SimpleData name="biomass_tonnes">0.2650169204195457</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.4372779186922504</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5752038488501,37.1995524130494</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">61</SimpleData>
+		<SimpleData name="date">2022/10/17 15:15:56</SimpleData>
+		<SimpleData name="lat">37.1994493693694</SimpleData>
+		<SimpleData name="lon">-80.57531237560011</SimpleData>
+		<SimpleData name="tree_id">CB2FC691-BD95-4AB8-AA7C-07226DEA7D5D</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">25.7296234369277</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F23065F3A-3E20-4593-AC0D-6EF87DA84380.png?alt=media&amp;token=47c38598-d397-42d2-8701-9dd2fa8a8d2f</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FD048AB7A-51F9-42AD-9EE4-299553CB7F17.png?alt=media&amp;token=70933747-9b95-4cbc-81c9-dc0af07a8f3b</SimpleData>
+		<SimpleData name="notes">R3P4</SimpleData>
+		<SimpleData name="row">3</SimpleData>
+		<SimpleData name="tree_idx">4</SimpleData>
+		<SimpleData name="biomass_kg">349.7073077530679</SimpleData>
+		<SimpleData name="biomass_tonnes">0.3497073077530679</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.5770170577925621</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5753123756001,37.1994493693694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">62</SimpleData>
+		<SimpleData name="date">2022/10/17 15:17:42</SimpleData>
+		<SimpleData name="lat">37.1993494427954</SimpleData>
+		<SimpleData name="lon">-80.57539431929</SimpleData>
+		<SimpleData name="tree_id">D3FC5E41-811E-44C8-B8EC-3949E5F46EB3</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">18.1929945945739</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F26AFD623-D40B-4BD8-B403-FCFA62A791DE.png?alt=media&amp;token=919f8843-690c-4929-a929-c724bf66d606</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F22ACF8E2-FCC8-41E1-A5DA-D111833A8E34.png?alt=media&amp;token=7dcd544d-2eaa-40fb-99ea-11abb2945777</SimpleData>
+		<SimpleData name="notes">R3P3</SimpleData>
+		<SimpleData name="row">3</SimpleData>
+		<SimpleData name="tree_idx">3</SimpleData>
+		<SimpleData name="biomass_kg">150.059271465175</SimpleData>
+		<SimpleData name="biomass_tonnes">0.150059271465175</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.2475977979175388</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.57539431929,37.1993494427954</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">63</SimpleData>
+		<SimpleData name="date">2022/10/17 15:25:50</SimpleData>
+		<SimpleData name="lat">37.199194471813</SimpleData>
+		<SimpleData name="lon">-80.5755299286848</SimpleData>
+		<SimpleData name="tree_id">392936EB-E3C8-4CB1-ACF0-0F186EDB5AA8</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">27.6951819658279</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F73FC3990-F05B-4897-86BF-45969ECDC5CF.png?alt=media&amp;token=9b28a779-55f8-4354-98c4-af75c381e187</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F06DD2B39-77D5-4154-8BA2-D8C5D7046113.png?alt=media&amp;token=2c58b9b0-8069-420b-8712-bf9f47f2b563</SimpleData>
+		<SimpleData name="notes">R3P1</SimpleData>
+		<SimpleData name="row">3</SimpleData>
+		<SimpleData name="tree_idx">1</SimpleData>
+		<SimpleData name="biomass_kg">418.54813669459</SimpleData>
+		<SimpleData name="biomass_tonnes">0.41854813669459</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.6906044255460735</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5755299286848,37.199194471813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">64</SimpleData>
+		<SimpleData name="date">2022/10/17 15:28:09</SimpleData>
+		<SimpleData name="lat">37.1992457089175</SimpleData>
+		<SimpleData name="lon">-80.5756539057987</SimpleData>
+		<SimpleData name="tree_id">5148462A-3FDA-4FA6-A0DF-6013C3853A1F</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">27.2949755191803</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FDBC841D7-D2B8-4CB4-A8C3-6BEFCF24897E.png?alt=media&amp;token=e7097d50-a9e4-4821-9aae-5724b9b42926</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FE9F83A95-DC52-4F05-B47D-282B4458ABCE.png?alt=media&amp;token=73239d21-445c-4294-9cd1-85ac50a6c323</SimpleData>
+		<SimpleData name="notes">R4P1</SimpleData>
+		<SimpleData name="row">4</SimpleData>
+		<SimpleData name="tree_idx">1</SimpleData>
+		<SimpleData name="biomass_kg">403.9378947094987</SimpleData>
+		<SimpleData name="biomass_tonnes">0.4039378947094988</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.666497526270673</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5756539057987,37.1992457089175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">65</SimpleData>
+		<SimpleData name="date">2022/10/17 15:30:16</SimpleData>
+		<SimpleData name="lat">37.1993404607931</SimpleData>
+		<SimpleData name="lon">-80.57557564160579</SimpleData>
+		<SimpleData name="tree_id">70B9C06F-46B7-4A82-93B6-0ABB515FAE34</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">21.604000031948</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F91725195-8BB7-45B0-B49A-23AA93CA5590.png?alt=media&amp;token=dde104d6-cfa3-4d9f-97f3-cf056542483d</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F0521A151-1CB0-417B-9451-FB875B718DE3.png?alt=media&amp;token=c0fb6a62-9628-42df-bbfb-705a07e53420</SimpleData>
+		<SimpleData name="notes">R4P2</SimpleData>
+		<SimpleData name="row">4</SimpleData>
+		<SimpleData name="tree_idx">2</SimpleData>
+		<SimpleData name="biomass_kg">228.2625222480855</SimpleData>
+		<SimpleData name="biomass_tonnes">0.2282625222480855</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.376633161709341</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5755756416058,37.1993404607931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">66</SimpleData>
+		<SimpleData name="date">2022/10/17 15:32:06</SimpleData>
+		<SimpleData name="lat">37.1994330822742</SimpleData>
+		<SimpleData name="lon">-80.5754952778621</SimpleData>
+		<SimpleData name="tree_id">202B7ACB-97EC-4640-829A-74C1484EB440</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">21.6814875602722</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F20544945-74E1-45FE-994E-00BDB940EDB0.png?alt=media&amp;token=eaa9802d-c755-4ad5-ae38-c10e70a19ac8</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FA8A04B9B-ECF0-495B-8AE7-D12B772D1C6D.png?alt=media&amp;token=3b7c1268-4661-4127-a6db-1aebf8c33121</SimpleData>
+		<SimpleData name="notes">R4P3</SimpleData>
+		<SimpleData name="row">4</SimpleData>
+		<SimpleData name="tree_idx">3</SimpleData>
+		<SimpleData name="biomass_kg">230.2661705392789</SimpleData>
+		<SimpleData name="biomass_tonnes">0.2302661705392789</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.3799391813898103</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5754952778621,37.1994330822742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">67</SimpleData>
+		<SimpleData name="date">2022/10/17 15:34:33</SimpleData>
+		<SimpleData name="lat">37.1995060575197</SimpleData>
+		<SimpleData name="lon">-80.5754167942366</SimpleData>
+		<SimpleData name="tree_id">9E4AC524-3DDD-418F-BF5C-D0ED6875D8D8</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">31.8069368600845</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FEA1C82DF-2293-4459-83A6-E9301A1DC681.png?alt=media&amp;token=2661d4e8-1387-49b7-a808-ed2072dd1fef</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FD38E3DA6-F62E-4C15-893B-509F42036F8C.png?alt=media&amp;token=6eca7094-401b-468d-9f65-fac165d36d50</SimpleData>
+		<SimpleData name="notes">R4P4</SimpleData>
+		<SimpleData name="row">4</SimpleData>
+		<SimpleData name="tree_idx">4</SimpleData>
+		<SimpleData name="biomass_kg">586.8032798634758</SimpleData>
+		<SimpleData name="biomass_tonnes">0.5868032798634758</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.9682254117747351</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5754167942366,37.1995060575197</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">68</SimpleData>
+		<SimpleData name="date">2022/10/17 15:36:26</SimpleData>
+		<SimpleData name="lat">37.1996158299695</SimpleData>
+		<SimpleData name="lon">-80.5753484530761</SimpleData>
+		<SimpleData name="tree_id">87AB797F-6A9B-4F4A-BEB8-A35331978404</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">16.9061720371246</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F234C0359-806F-414B-949A-936228CB3E4B.png?alt=media&amp;token=74dbbe6e-e0ac-4460-bca7-abc5f0e2b92f</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F8EE513DB-9E9F-4725-9D81-5D0A571DB14A.png?alt=media&amp;token=c8c56e4e-e089-4ad7-98b0-3737a1e4c532</SimpleData>
+		<SimpleData name="notes">R4P5</SimpleData>
+		<SimpleData name="row">4</SimpleData>
+		<SimpleData name="tree_idx">5</SimpleData>
+		<SimpleData name="biomass_kg">125.4570995999259</SimpleData>
+		<SimpleData name="biomass_tonnes">0.1254570995999259</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.2070042143398777</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5753484530761,37.1996158299695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">69</SimpleData>
+		<SimpleData name="date">2022/10/17 15:39:17</SimpleData>
+		<SimpleData name="lat">37.199710719322</SimpleData>
+		<SimpleData name="lon">-80.5752039235835</SimpleData>
+		<SimpleData name="tree_id">B034FCED-0188-44B6-BBD6-D14568A83A11</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">24.8991444706916</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F8D7E0585-E9F4-462D-9145-2FEB8E7BFB1A.png?alt=media&amp;token=a448d838-1e62-41ba-85fe-ef5bc3b4b444</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FFF5987C9-30EF-48C8-9EDD-84728BF31944.png?alt=media&amp;token=55a37f91-7172-4229-8d96-cb82361fec18</SimpleData>
+		<SimpleData name="notes">R4P6</SimpleData>
+		<SimpleData name="row">4</SimpleData>
+		<SimpleData name="tree_idx">6</SimpleData>
+		<SimpleData name="biomass_kg">322.792091844247</SimpleData>
+		<SimpleData name="biomass_tonnes">0.322792091844247</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.5326069515430076</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5752039235835,37.199710719322</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">70</SimpleData>
+		<SimpleData name="date">2022/10/17 15:40:48</SimpleData>
+		<SimpleData name="lat">37.1998089310396</SimpleData>
+		<SimpleData name="lon">-80.5754077872293</SimpleData>
+		<SimpleData name="tree_id">3323D945-07D7-40B5-8EC0-924422B79FF5</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">21.5515047311782</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FF65EE0EA-0970-4473-B744-384E6195DC63.png?alt=media&amp;token=127ec9a7-79a7-428c-9949-02a1314a82ed</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FFDB99AB0-C8CA-4432-BE99-5869FB8D35ED.png?alt=media&amp;token=0b60c4b2-dd24-4f57-990d-8b8116336abd</SimpleData>
+		<SimpleData name="notes">R5P6</SimpleData>
+		<SimpleData name="row">5</SimpleData>
+		<SimpleData name="tree_idx">6</SimpleData>
+		<SimpleData name="biomass_kg">226.9109853031066</SimpleData>
+		<SimpleData name="biomass_tonnes">0.2269109853031066</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.3744031257501259</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5754077872293,37.1998089310396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">71</SimpleData>
+		<SimpleData name="date">2022/10/17 15:42:29</SimpleData>
+		<SimpleData name="lat">37.1996781644436</SimpleData>
+		<SimpleData name="lon">-80.57544376439471</SimpleData>
+		<SimpleData name="tree_id">03743772-0544-404C-A9B2-C7051BD44226</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">20.7634001970291</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FD0070E90-BA2B-4D3F-B5BB-F704BBCF943F.png?alt=media&amp;token=10e9c7bd-d9ee-4b8b-b212-15e3e56a056a</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F56F2CFF7-158F-4164-A55F-72BDF909084F.png?alt=media&amp;token=6ca3c323-e77e-4bef-a31a-bc2c0216b33b</SimpleData>
+		<SimpleData name="notes">R5P5</SimpleData>
+		<SimpleData name="row">5</SimpleData>
+		<SimpleData name="tree_idx">5</SimpleData>
+		<SimpleData name="biomass_kg">207.1868947594119</SimpleData>
+		<SimpleData name="biomass_tonnes">0.2071868947594119</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.3418583763530296</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5754437643947,37.1996781644436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">72</SimpleData>
+		<SimpleData name="date">2022/10/17 15:47:37</SimpleData>
+		<SimpleData name="lat">37.1996109327647</SimpleData>
+		<SimpleData name="lon">-80.575649086461</SimpleData>
+		<SimpleData name="tree_id">92192906-697E-43D1-A2D4-2F27AD4323BC</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">12.7847880125045</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FF8ED163D-689D-4FE4-8609-C1E39A691717.png?alt=media&amp;token=3de0a596-5fa3-40ea-8af4-c27539fd9ca5</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F2237BBB7-84FC-4440-AB87-43E39811E6F5.png?alt=media&amp;token=b398fab1-cd27-4864-a77f-48e09545dfba</SimpleData>
+		<SimpleData name="notes">R5P4</SimpleData>
+		<SimpleData name="row">5</SimpleData>
+		<SimpleData name="tree_idx">4</SimpleData>
+		<SimpleData name="biomass_kg">63.42721090798806</SimpleData>
+		<SimpleData name="biomass_tonnes">0.06342721090798806</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.1046548979981803</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.575649086461,37.1996109327647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">73</SimpleData>
+		<SimpleData name="date">2022/10/17 15:49:01</SimpleData>
+		<SimpleData name="lat">37.1996078314607</SimpleData>
+		<SimpleData name="lon">-80.5754582305257</SimpleData>
+		<SimpleData name="tree_id">28A9C95E-8E6C-4829-94F7-341812657177</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">26.8359661102294</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F7B3B9BCE-F899-485D-9763-EF881CC728E5.png?alt=media&amp;token=932e262d-90ef-431c-8051-1e71d47f3798</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F07E23CEE-CEC9-42AF-972C-4CA1B15AD335.png?alt=media&amp;token=d3e2f38f-50b9-4eb7-b321-9c2593255d07</SimpleData>
+		<SimpleData name="notes">R5P3</SimpleData>
+		<SimpleData name="row">5</SimpleData>
+		<SimpleData name="tree_idx">3</SimpleData>
+		<SimpleData name="biomass_kg">387.5569011640999</SimpleData>
+		<SimpleData name="biomass_tonnes">0.3875569011641</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.6394688869207649</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5754582305257,37.1996078314607</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">74</SimpleData>
+		<SimpleData name="date">2022/10/17 15:50:32</SimpleData>
+		<SimpleData name="lat">37.1994442167107</SimpleData>
+		<SimpleData name="lon">-80.5755582266306</SimpleData>
+		<SimpleData name="tree_id">FB38E872-B8A9-4773-8F3B-1208FFC08F0D</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">34.3681544065475</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F3FC79902-28D0-48BF-AD1F-91684DCB2EEF.png?alt=media&amp;token=92cbf230-151e-440d-a86c-d64ab3135dc6</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F5C4117DE-A9B5-422A-A9AD-00C9F8B90F80.png?alt=media&amp;token=b9e9570a-30a4-4f9b-aa41-2ad70184fcde</SimpleData>
+		<SimpleData name="notes">R5P2</SimpleData>
+		<SimpleData name="row">5</SimpleData>
+		<SimpleData name="tree_idx">2</SimpleData>
+		<SimpleData name="biomass_kg">708.9147545449893</SimpleData>
+		<SimpleData name="biomass_tonnes">0.7089147545449893</SimpleData>
+		<SimpleData name="biomass_TCO2e">1.169709344999232</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5755582266306,37.1994442167107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">75</SimpleData>
+		<SimpleData name="date">2022/10/17 15:51:40</SimpleData>
+		<SimpleData name="lat">37.1993298037324</SimpleData>
+		<SimpleData name="lon">-80.5757101905351</SimpleData>
+		<SimpleData name="tree_id">9830B3C9-EA34-4E26-8CD4-53AA17C97B4C</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">22.937723994255</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F41C7311B-E8C1-46B8-93F0-0F6486DFBC86.png?alt=media&amp;token=145f8798-fb60-430d-8908-af2143c9d282</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F512F1D5D-1089-430C-8FD6-5A742DCF9C11.png?alt=media&amp;token=a33c354f-9710-4433-964f-80c383a9d31e</SimpleData>
+		<SimpleData name="notes">R5P1</SimpleData>
+		<SimpleData name="row">5</SimpleData>
+		<SimpleData name="tree_idx">1</SimpleData>
+		<SimpleData name="biomass_kg">264.204397722867</SimpleData>
+		<SimpleData name="biomass_tonnes">0.264204397722867</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.4359372562427306</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5757101905351,37.1993298037324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">0</SimpleData>
+		<SimpleData name="date">2022/10/17 15:57:12</SimpleData>
+		<SimpleData name="lat">37.1994550712753</SimpleData>
+		<SimpleData name="lon">-80.5758859590446</SimpleData>
+		<SimpleData name="tree_id">8DA11D43-FE57-45BB-AABE-E3080236DD36</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">38.9566272497177</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FC7C1B91E-669B-41D7-BB13-C460819E5834.png?alt=media&amp;token=1d947127-7354-4abe-9d78-965ff1f756fd</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FC5994028-4621-4C8B-A744-DD28D5DEB69B.png?alt=media&amp;token=5be5190f-5a69-46bf-b7e8-e0c6463ac33f</SimpleData>
+		<SimpleData name="notes">R6P1</SimpleData>
+		<SimpleData name="row">6</SimpleData>
+		<SimpleData name="tree_idx">1</SimpleData>
+		<SimpleData name="biomass_kg">903.8571073627619</SimpleData>
+		<SimpleData name="biomass_tonnes">0.9038571073627619</SimpleData>
+		<SimpleData name="biomass_TCO2e">1.491364227148557</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5758859590446,37.1994550712753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">1</SimpleData>
+		<SimpleData name="date">2022/10/17 15:59:40</SimpleData>
+		<SimpleData name="lat">37.1995314304132</SimpleData>
+		<SimpleData name="lon">-80.5757954344903</SimpleData>
+		<SimpleData name="tree_id">3C922067-605B-4D88-9C59-AD9C79F0EF81</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">41.863015294075</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F5BFBCD27-4284-4D61-8B67-7FF40AD73D63.png?alt=media&amp;token=d9215973-9cd5-41da-a425-029363333467</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F86655A3B-727B-41CB-A841-972E70B870B3.png?alt=media&amp;token=64cea458-3fea-44a5-bcb0-d3b105868af2</SimpleData>
+		<SimpleData name="notes">R6P2</SimpleData>
+		<SimpleData name="row">6</SimpleData>
+		<SimpleData name="tree_idx">2</SimpleData>
+		<SimpleData name="biomass_kg">1085.396099674469</SimpleData>
+		<SimpleData name="biomass_tonnes">1.085396099674469</SimpleData>
+		<SimpleData name="biomass_TCO2e">1.790903564462875</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5757954344903,37.1995314304132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">2</SimpleData>
+		<SimpleData name="date">2022/10/17 16:01:37</SimpleData>
+		<SimpleData name="lat">37.1996126510549</SimpleData>
+		<SimpleData name="lon">-80.5759620667254</SimpleData>
+		<SimpleData name="tree_id">514070F0-2FA5-44C3-8AC7-E768856BED28</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">33.9075058698654</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FBBF8FA5F-7963-4D8B-A5B4-1493AD5114F9.png?alt=media&amp;token=7768927d-0461-4c12-870e-59ff1b0b6bad</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F43E7D248-37D2-4CE4-A148-4D141AEF668F.png?alt=media&amp;token=59f99e33-6a62-4bed-bd66-05f710bf2403</SimpleData>
+		<SimpleData name="notes">R6P3</SimpleData>
+		<SimpleData name="row">6</SimpleData>
+		<SimpleData name="tree_idx">3</SimpleData>
+		<SimpleData name="biomass_kg">634.9675629935275</SimpleData>
+		<SimpleData name="biomass_tonnes">0.6349675629935275</SimpleData>
+		<SimpleData name="biomass_TCO2e">1.047696478939321</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5759620667254,37.1996126510549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">3</SimpleData>
+		<SimpleData name="date">2022/10/17 16:08:39</SimpleData>
+		<SimpleData name="lat">37.1996665165484</SimpleData>
+		<SimpleData name="lon">-80.5757020468838</SimpleData>
+		<SimpleData name="tree_id">DCCFED1A-22DF-488D-8C32-D9A27549A6CC</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">26.3318091630935</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FAECC1B39-5035-4260-BEDE-651246AB9743.png?alt=media&amp;token=6c594537-7057-4904-8439-214a0e9bb301</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FDF77B0EE-CF68-4EB6-B69D-BA74B51A2243.png?alt=media&amp;token=e3c852e2-4938-4f1a-a6e3-18739021dfe6</SimpleData>
+		<SimpleData name="notes">R6P4</SimpleData>
+		<SimpleData name="row">6</SimpleData>
+		<SimpleData name="tree_idx">4</SimpleData>
+		<SimpleData name="biomass_kg">333.7449873137908</SimpleData>
+		<SimpleData name="biomass_tonnes">0.3337449873137908</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.5506792290677548</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5757020468838,37.1996665165484</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">4</SimpleData>
+		<SimpleData name="date">2022/10/17 16:10:06</SimpleData>
+		<SimpleData name="lat">37.1997293851409</SimpleData>
+		<SimpleData name="lon">-80.5756066212126</SimpleData>
+		<SimpleData name="tree_id">0621C0F8-4F08-442B-BC72-3B34F138FD3C</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">22.6345807313919</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F320A3BAC-17A9-430A-B8F0-7364D7B03CDD.png?alt=media&amp;token=2db67b5d-10cd-4e30-a513-1cec2a1259d9</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FE83DE591-38C0-4F33-A094-B6C4929E2E08.png?alt=media&amp;token=610f6ecb-e9d7-4c04-90a2-b09e1d4b363f</SimpleData>
+		<SimpleData name="notes">R6P5</SimpleData>
+		<SimpleData name="row">6</SimpleData>
+		<SimpleData name="tree_idx">5</SimpleData>
+		<SimpleData name="biomass_kg">227.1290527638653</SimpleData>
+		<SimpleData name="biomass_tonnes">0.2271290527638653</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.3747629370603778</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5756066212126,37.1997293851409</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">5</SimpleData>
+		<SimpleData name="date">2022/10/17 16:14:15</SimpleData>
+		<SimpleData name="lat">37.1997125904741</SimpleData>
+		<SimpleData name="lon">-80.5755554773823</SimpleData>
+		<SimpleData name="tree_id">FAEAF3D0-4600-4345-AA2A-0428B18000A9</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">32.1815371513366</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FB39E0082-C204-490A-81C6-DF353886F46F.png?alt=media&amp;token=19b2a435-2aed-4fc4-a77e-a0d1cad260b7</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F05BF3F8F-4674-4D2D-A922-A5E4EECE66E7.png?alt=media&amp;token=71a320eb-8df3-4720-820c-e895e6c0e292</SimpleData>
+		<SimpleData name="notes">R6P6</SimpleData>
+		<SimpleData name="row">6</SimpleData>
+		<SimpleData name="tree_idx">6</SimpleData>
+		<SimpleData name="biomass_kg">555.9520999366181</SimpleData>
+		<SimpleData name="biomass_tonnes">0.5559520999366181</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.91732096489542</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5755554773823,37.1997125904741</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">6</SimpleData>
+		<SimpleData name="date">2022/10/17 16:15:24</SimpleData>
+		<SimpleData name="lat">37.1998152574832</SimpleData>
+		<SimpleData name="lon">-80.5754931633018</SimpleData>
+		<SimpleData name="tree_id">00623E08-7E5B-479F-9A39-2A502829D4F6</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">32.7474623918533</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FEAD58B38-F3F5-471D-8727-373C96A743A7.png?alt=media&amp;token=6bf9a224-b7c4-41e7-809a-79ff12ba19fe</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FC38603A7-96E5-47E5-9E21-99D51ABAC832.png?alt=media&amp;token=f8d43088-6d38-4b99-bad1-b431fe057813</SimpleData>
+		<SimpleData name="notes">R6P7</SimpleData>
+		<SimpleData name="row">6</SimpleData>
+		<SimpleData name="tree_idx">7</SimpleData>
+		<SimpleData name="biomass_kg">581.1595665714665</SimpleData>
+		<SimpleData name="biomass_tonnes">0.5811595665714665</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.9589132848429198</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5754931633018,37.1998152574832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">7</SimpleData>
+		<SimpleData name="date">2022/10/17 16:16:46</SimpleData>
+		<SimpleData name="lat">37.1998564857451</SimpleData>
+		<SimpleData name="lon">-80.5755930753897</SimpleData>
+		<SimpleData name="tree_id">EF47ABFF-1AFB-4ABD-A40C-733D1EFE02EC</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">27.4747550487518</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FF6AA5801-076D-4B24-8D5B-C9D1067A106E.png?alt=media&amp;token=220e8905-20d6-4803-8f47-6182a468c81d</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FA4ACC683-0C8E-4448-B7FF-FBBA2321E0DE.png?alt=media&amp;token=144f1b74-6b11-4921-ab13-e603ad1398c4</SimpleData>
+		<SimpleData name="notes">R7P6</SimpleData>
+		<SimpleData name="row">7</SimpleData>
+		<SimpleData name="tree_idx">6</SimpleData>
+		<SimpleData name="biomass_kg">371.8381784721076</SimpleData>
+		<SimpleData name="biomass_tonnes">0.3718381784721076</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.6135329944789777</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5755930753897,37.1998564857451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">8</SimpleData>
+		<SimpleData name="date">2022/10/17 16:19:43</SimpleData>
+		<SimpleData name="lat">37.1997761400764</SimpleData>
+		<SimpleData name="lon">-80.57565956383991</SimpleData>
+		<SimpleData name="tree_id">5AE0A2EB-1AC1-4A74-9AF6-392403F268F8</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">23.8474741578102</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F1D5FE870-8904-41D2-8CA0-0254879A2492.png?alt=media&amp;token=b4d1c39d-4889-4456-a564-f4bbe428a022</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FEDE627CC-0C04-4CDD-B38C-7D40675553BA.png?alt=media&amp;token=ee484280-e3a3-4d2c-9872-e5d7f8b5c8c7</SimpleData>
+		<SimpleData name="notes">R7P5</SimpleData>
+		<SimpleData name="row">7</SimpleData>
+		<SimpleData name="tree_idx">5</SimpleData>
+		<SimpleData name="biomass_kg">259.3810219759377</SimpleData>
+		<SimpleData name="biomass_tonnes">0.2593810219759377</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.4279786862602972</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5756595638399,37.1997761400764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">9</SimpleData>
+		<SimpleData name="date">2022/10/17 16:22:23</SimpleData>
+		<SimpleData name="lat">37.1996854897934</SimpleData>
+		<SimpleData name="lon">-80.5757309776549</SimpleData>
+		<SimpleData name="tree_id">AFACC194-54E8-4830-A692-87BC53BC1566</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">27.3685961961746</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F901918FD-9C91-46CA-879E-71EF1327D2A3.png?alt=media&amp;token=4f4999ca-17e9-457e-9c25-99747210688f</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F2AD1AB04-6064-46C6-87D7-17CC88A55228.png?alt=media&amp;token=87f734a4-c7fc-48db-ad8b-19f1473c19ac</SimpleData>
+		<SimpleData name="notes">R7P4</SimpleData>
+		<SimpleData name="row">7</SimpleData>
+		<SimpleData name="tree_idx">4</SimpleData>
+		<SimpleData name="biomass_kg">368.1944498664259</SimpleData>
+		<SimpleData name="biomass_tonnes">0.3681944498664259</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.6075208422796028</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5757309776549,37.1996854897934</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">10</SimpleData>
+		<SimpleData name="date">2022/10/17 16:24:13</SimpleData>
+		<SimpleData name="lat">37.199655231123</SimpleData>
+		<SimpleData name="lon">-80.57566224604891</SimpleData>
+		<SimpleData name="tree_id">C761F211-34A4-424F-A308-C2257E409E3C</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">30.782812833786</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F54431A5C-E535-4E9E-BC94-722C939B926E.png?alt=media&amp;token=e87716d8-739b-4393-aabf-a9f8781ece72</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F84615F81-603B-44DC-93C1-4ADB4C9E896D.png?alt=media&amp;token=1ea31298-cf62-44d4-9809-aac083687b78</SimpleData>
+		<SimpleData name="notes">R7P3</SimpleData>
+		<SimpleData name="row">7</SimpleData>
+		<SimpleData name="tree_idx">3</SimpleData>
+		<SimpleData name="biomass_kg">496.5326654842348</SimpleData>
+		<SimpleData name="biomass_tonnes">0.4965326654842348</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.8192788980489875</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5756622460489,37.199655231123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">11</SimpleData>
+		<SimpleData name="date">2022/10/17 17:16:24</SimpleData>
+		<SimpleData name="lat">37.199584813239</SimpleData>
+		<SimpleData name="lon">-80.5759117876084</SimpleData>
+		<SimpleData name="tree_id">C6C798B8-AEF8-4FD2-A7E8-1BFED509363C</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">27.7901381254196</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FF4AF9ADB-7213-4657-8C21-9DE831BB5E7E.png?alt=media&amp;token=77742982-9152-4183-bd43-fce59ba81f83</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FAFFD82CC-1E65-43F9-B5D1-325DB32030E3.png?alt=media&amp;token=08fa8058-125e-4f2a-bfa6-9ad817fa367f</SimpleData>
+		<SimpleData name="notes">R7P2</SimpleData>
+		<SimpleData name="row">7</SimpleData>
+		<SimpleData name="tree_idx">2</SimpleData>
+		<SimpleData name="biomass_kg">382.7919400974937</SimpleData>
+		<SimpleData name="biomass_tonnes">0.3827919400974937</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.6316067011608645</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5759117876084,37.199584813239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">12</SimpleData>
+		<SimpleData name="date">2022/10/17 17:18:54</SimpleData>
+		<SimpleData name="lat">37.1995078228911</SimpleData>
+		<SimpleData name="lon">-80.5759491828816</SimpleData>
+		<SimpleData name="tree_id">7EBA0A4D-1087-487C-ACA1-157C7186BBDA</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">35.4378789663314</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F59B01599-6C7B-4F2F-A46C-59A2DEE3F61E.png?alt=media&amp;token=c5e2ff4a-d289-4d75-9f88-bcfc5e446ecd</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F18FD3F79-5989-4968-A359-3E7ECC2314CC.png?alt=media&amp;token=5f5ac4b1-a139-45c4-8647-432a815ff97b</SimpleData>
+		<SimpleData name="notes">R7P1</SimpleData>
+		<SimpleData name="row">7</SimpleData>
+		<SimpleData name="tree_idx">1</SimpleData>
+		<SimpleData name="biomass_kg">710.4263126168771</SimpleData>
+		<SimpleData name="biomass_tonnes">0.7104263126168772</SimpleData>
+		<SimpleData name="biomass_TCO2e">1.172203415817847</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5759491828816,37.1995078228911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">13</SimpleData>
+		<SimpleData name="date">2022/10/17 17:20:59</SimpleData>
+		<SimpleData name="lat">37.1995986483971</SimpleData>
+		<SimpleData name="lon">-80.5760543790506</SimpleData>
+		<SimpleData name="tree_id">16BF791B-1604-4CE7-8C23-76FD5DE4AB67</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">33.966714143753</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F77422664-EF53-4536-B797-708FBAF00EAD.png?alt=media&amp;token=24c52609-9d29-494f-bae0-95dc96e30f09</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F07F1509C-9BF3-4E77-A4C7-394B904B9510.png?alt=media&amp;token=c3480da8-c090-4b02-bf60-fbbc85225d99</SimpleData>
+		<SimpleData name="notes">R8P1</SimpleData>
+		<SimpleData name="row">8</SimpleData>
+		<SimpleData name="tree_idx">1</SimpleData>
+		<SimpleData name="biomass_kg">637.7917217708352</SimpleData>
+		<SimpleData name="biomass_tonnes">0.6377917217708352</SimpleData>
+		<SimpleData name="biomass_TCO2e">1.052356340921878</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5760543790506,37.1995986483971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">14</SimpleData>
+		<SimpleData name="date">2022/10/17 17:22:42</SimpleData>
+		<SimpleData name="lat">37.1996954651405</SimpleData>
+		<SimpleData name="lon">-80.57596676564999</SimpleData>
+		<SimpleData name="tree_id">FCA1800E-3030-4B11-849D-7A38F6B85A57</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">28.4155577421188</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F85CA7730-BFDF-42CF-BC88-6FE3B6A20DC9.png?alt=media&amp;token=03c418cb-eb3b-4e63-b880-7a5690761fb4</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FD4E3FE0C-052F-4EDB-B00F-85177C70C8E1.png?alt=media&amp;token=f072e21d-bc99-4f45-bfd0-9d166fbff6a9</SimpleData>
+		<SimpleData name="notes">R8P2</SimpleData>
+		<SimpleData name="row">8</SimpleData>
+		<SimpleData name="tree_idx">2</SimpleData>
+		<SimpleData name="biomass_kg">405.0875213188562</SimpleData>
+		<SimpleData name="biomass_tonnes">0.4050875213188562</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.6683944101761128</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.57596676565,37.1996954651405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">15</SimpleData>
+		<SimpleData name="date">2022/10/17 17:26:02</SimpleData>
+		<SimpleData name="lat">37.1997391707513</SimpleData>
+		<SimpleData name="lon">-80.5758526386832</SimpleData>
+		<SimpleData name="tree_id">3D053787-FAF1-4BBF-B964-F92ECF51FA62</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">24.8976349830627</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F8AE2E751-94B7-42D7-9AC1-8DA1F118CD64.png?alt=media&amp;token=08b50adc-afe4-4519-87df-68e8b8f736ae</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F7398AB95-AAFF-4C6A-AF4A-A9E4258CE3E9.png?alt=media&amp;token=99bf373e-63bc-4306-b58f-3c57a032a1b7</SimpleData>
+		<SimpleData name="notes">R8P3</SimpleData>
+		<SimpleData name="row">8</SimpleData>
+		<SimpleData name="tree_idx">3</SimpleData>
+		<SimpleData name="biomass_kg">289.4312001201057</SimpleData>
+		<SimpleData name="biomass_tonnes">0.2894312001201057</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.4775614801981745</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5758526386832,37.1997391707513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">16</SimpleData>
+		<SimpleData name="date">2022/10/17 17:29:28</SimpleData>
+		<SimpleData name="lat">37.1997894253929</SimpleData>
+		<SimpleData name="lon">-80.57581915527631</SimpleData>
+		<SimpleData name="tree_id">D46713A7-2B8D-4FF6-8362-C75BA78CAF0E</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">29.1030377149581</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FC66CE770-2ED3-4075-ACEF-8BCA1E42983D.png?alt=media&amp;token=c2794706-a1d2-444e-953b-57dfe535ec3b</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F333A45E9-67A4-4258-8863-A11F83FFD9E5.png?alt=media&amp;token=0ed6237c-39d5-4c2a-8e76-b2e648688331</SimpleData>
+		<SimpleData name="notes">R8P4</SimpleData>
+		<SimpleData name="row">8</SimpleData>
+		<SimpleData name="tree_idx">4</SimpleData>
+		<SimpleData name="biomass_kg">430.4848853226403</SimpleData>
+		<SimpleData name="biomass_tonnes">0.4304848853226403</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.7103000607823565</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5758191552763,37.1997894253929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">17</SimpleData>
+		<SimpleData name="date">2022/10/17 17:30:57</SimpleData>
+		<SimpleData name="lat">37.1998842823581</SimpleData>
+		<SimpleData name="lon">-80.5757696363563</SimpleData>
+		<SimpleData name="tree_id">AF9B6269-0254-49BA-8D3F-2A6B71F3BFA3</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">23.8140791654586</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F86029104-FAA9-46C2-AEF2-F6F091090545.png?alt=media&amp;token=c6496473-dcac-4050-8b1b-f47b31b7a9a3</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F3E5D3B53-E4AA-47DC-84BD-B76D3DD11203.png?alt=media&amp;token=96c80a3e-92e6-4f92-afe9-9f2a1df50379</SimpleData>
+		<SimpleData name="notes">R8P5</SimpleData>
+		<SimpleData name="row">8</SimpleData>
+		<SimpleData name="tree_idx">5</SimpleData>
+		<SimpleData name="biomass_kg">258.4580819096578</SimpleData>
+		<SimpleData name="biomass_tonnes">0.2584580819096578</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.4264558351509354</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5757696363563,37.1998842823581</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">18</SimpleData>
+		<SimpleData name="date">2022/10/17 17:31:56</SimpleData>
+		<SimpleData name="lat">37.2000051540868</SimpleData>
+		<SimpleData name="lon">-80.57580778505429</SimpleData>
+		<SimpleData name="tree_id">5D6BA82B-9453-416F-989F-1E1FA958077C</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">17.2121539711952</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F2365CCBE-5145-4CB0-AFC3-53AAB651F1DD.png?alt=media&amp;token=17997425-9cc3-48fd-bd0d-0b3ad4b59ed3</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F231B02D6-C257-4F86-A892-31EF3B93FECC.png?alt=media&amp;token=b0758a8a-5a1e-4602-9a78-ff73e95398e8</SimpleData>
+		<SimpleData name="notes">R9P6</SimpleData>
+		<SimpleData name="row">9</SimpleData>
+		<SimpleData name="tree_idx">6</SimpleData>
+		<SimpleData name="biomass_kg">113.1701920528994</SimpleData>
+		<SimpleData name="biomass_tonnes">0.1131701920528994</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.186730816887284</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5758077850543,37.2000051540868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">19</SimpleData>
+		<SimpleData name="date">2022/10/17 17:32:54</SimpleData>
+		<SimpleData name="lat">37.1999355587781</SimpleData>
+		<SimpleData name="lon">-80.5757739649128</SimpleData>
+		<SimpleData name="tree_id">1C617710-E2AC-4CCC-9D64-8B7E57B36271</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">24.857310950756</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F8F5F496E-8C47-46FD-B151-C39F77572D2E.png?alt=media&amp;token=519b3beb-7a8a-4daf-9471-334bd661cd43</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FBC0C7A87-2909-4123-A942-EFAC38F632E2.png?alt=media&amp;token=7672c547-ef23-4d08-8e3c-f2c9e6a61132</SimpleData>
+		<SimpleData name="notes">R9P5</SimpleData>
+		<SimpleData name="row">9</SimpleData>
+		<SimpleData name="tree_idx">5</SimpleData>
+		<SimpleData name="biomass_kg">288.2403036451861</SimpleData>
+		<SimpleData name="biomass_tonnes">0.2882403036451861</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.4755965010145571</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5757739649128,37.1999355587781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">20</SimpleData>
+		<SimpleData name="date">2022/10/17 17:36:08</SimpleData>
+		<SimpleData name="lat">37.1998019454383</SimpleData>
+		<SimpleData name="lon">-80.5759751827954</SimpleData>
+		<SimpleData name="tree_id">7F1A5A3B-7B0F-4365-BC69-CA7A81D54FE9</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">26.7574995756149</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F9E96B577-A055-4F37-B1DC-7A4EE0CAF263.png?alt=media&amp;token=949c9039-e4e9-466e-aa5e-e8bbbac67fc7</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F0E96BAE3-8ED4-4DB3-99D9-1074C4F8D4EF.png?alt=media&amp;token=70e929d0-8dee-47cb-8d14-e8a6d477ae15</SimpleData>
+		<SimpleData name="notes">R9P4</SimpleData>
+		<SimpleData name="row">9</SimpleData>
+		<SimpleData name="tree_idx">4</SimpleData>
+		<SimpleData name="biomass_kg">347.6411558638238</SimpleData>
+		<SimpleData name="biomass_tonnes">0.3476411558638238</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.5736079071753094</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5759751827954,37.1998019454383</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">21</SimpleData>
+		<SimpleData name="date">2022/10/17 17:37:02</SimpleData>
+		<SimpleData name="lat">37.1997091137297</SimpleData>
+		<SimpleData name="lon">-80.57600693544281</SimpleData>
+		<SimpleData name="tree_id">D9126304-0460-426E-A99C-E57C3E82A0A3</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">28.6249548196792</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FEA56C46D-381C-4880-9C47-9FC4EB876336.png?alt=media&amp;token=5a627083-9fdc-4475-93eb-c00558d1332f</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F15D14C36-0166-4624-A6B9-00146DA6B8A6.png?alt=media&amp;token=7f9973ef-2e4c-4607-abf3-bf4d5758eb43</SimpleData>
+		<SimpleData name="notes">R9P3</SimpleData>
+		<SimpleData name="row">9</SimpleData>
+		<SimpleData name="tree_idx">3</SimpleData>
+		<SimpleData name="biomass_kg">412.7240442948072</SimpleData>
+		<SimpleData name="biomass_tonnes">0.4127240442948072</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.680994673086432</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5760069354428,37.1997091137297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">22</SimpleData>
+		<SimpleData name="date">2022/10/17 17:38:01</SimpleData>
+		<SimpleData name="lat">37.1997050445437</SimpleData>
+		<SimpleData name="lon">-80.5760976351192</SimpleData>
+		<SimpleData name="tree_id">ED8F8C76-61CE-4A52-9EBE-0881D7B3AE5A</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">30.4386585950851</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F871A1504-0D50-47EC-B373-6E29504157CE.png?alt=media&amp;token=f22e2d95-c261-4a0c-814e-f34d4f644ef7</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F2B4FAC6C-E783-4ADC-875E-8608CDF944E2.png?alt=media&amp;token=fd581e92-c45e-4dac-9707-d8bdcda09796</SimpleData>
+		<SimpleData name="notes">R9P2</SimpleData>
+		<SimpleData name="row">9</SimpleData>
+		<SimpleData name="tree_idx">2</SimpleData>
+		<SimpleData name="biomass_kg">482.5334961893676</SimpleData>
+		<SimpleData name="biomass_tonnes">0.4825334961893676</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.7961802687124567</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5760976351192,37.1997050445437</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">23</SimpleData>
+		<SimpleData name="date">2022/10/17 17:43:22</SimpleData>
+		<SimpleData name="lat">37.1996483579624</SimpleData>
+		<SimpleData name="lon">-80.57618133731231</SimpleData>
+		<SimpleData name="tree_id">FC4F4ECF-197E-417E-809A-6C42C46B7425</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">36.7730021476745</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F701AE3B0-01EA-4E17-939A-E200B802650F.png?alt=media&amp;token=b61e6262-9859-4aa6-9fda-db67ba9f1cbc</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F1C34D3E7-0D91-45C6-8665-A8AD0177585A.png?alt=media&amp;token=9ce276a6-142c-4407-be41-8d9b8ff94c4d</SimpleData>
+		<SimpleData name="notes">R9P1</SimpleData>
+		<SimpleData name="row">9</SimpleData>
+		<SimpleData name="tree_idx">1</SimpleData>
+		<SimpleData name="biomass_kg">780.5025684446144</SimpleData>
+		<SimpleData name="biomass_tonnes">0.7805025684446144</SimpleData>
+		<SimpleData name="biomass_TCO2e">1.287829237933614</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5761813373123,37.1996483579624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">76</SimpleData>
+		<SimpleData name="date">2022/10/19 17:19:09</SimpleData>
+		<SimpleData name="lat">37.2003712971109</SimpleData>
+		<SimpleData name="lon">-80.5763373245304</SimpleData>
+		<SimpleData name="tree_id">30DBF0DD-FA79-49DF-B8BB-7BFA1851D60F</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">23.2293292880058</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FC35C638F-F143-4A16-9992-69367CB258B8.png?alt=media&amp;token=51f4dadf-f309-428c-9067-e6684c2f2732</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F622D2F17-FDEC-4249-97D9-1764F19119D9.png?alt=media&amp;token=f828df08-0655-48a0-8c95-3a7079389f29</SimpleData>
+		<SimpleData name="notes">R10P7</SimpleData>
+		<SimpleData name="row">10</SimpleData>
+		<SimpleData name="tree_idx">7</SimpleData>
+		<SimpleData name="biomass_kg">272.4784857211238</SimpleData>
+		<SimpleData name="biomass_tonnes">0.2724784857211238</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.4495895014398543</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5763373245304,37.2003712971109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">77</SimpleData>
+		<SimpleData name="date">2022/10/19 17:20:38</SimpleData>
+		<SimpleData name="lat">37.2003205027777</SimpleData>
+		<SimpleData name="lon">-80.57651619434409</SimpleData>
+		<SimpleData name="tree_id">948E5FDC-5B22-4DA5-B7A2-1DD78CE4EB18</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">21.6522648930549</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F1B96D83F-95B6-4279-AED4-FC2B38CD64F8.png?alt=media&amp;token=78fcf3a9-150d-4969-8aae-77463585353d</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F036F12FA-F07D-4FE4-942A-F0B011CBE5C9.png?alt=media&amp;token=6b3df3df-65cc-47c9-aa0b-76f518eba220</SimpleData>
+		<SimpleData name="notes">R10P6</SimpleData>
+		<SimpleData name="row">10</SimpleData>
+		<SimpleData name="tree_idx">6</SimpleData>
+		<SimpleData name="biomass_kg">229.5093257431379</SimpleData>
+		<SimpleData name="biomass_tonnes">0.2295093257431379</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.3786903874761775</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5765161943441,37.2003205027777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">78</SimpleData>
+		<SimpleData name="date">2022/10/19 17:22:09</SimpleData>
+		<SimpleData name="lat">37.2001559660185</SimpleData>
+		<SimpleData name="lon">-80.5765627139067</SimpleData>
+		<SimpleData name="tree_id">F9452071-6C29-4049-8AF5-53524B930C8A</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">19.937677681446</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FBC640E7B-CA96-4C3F-BA68-D1BB73166A88.png?alt=media&amp;token=c904ae57-519a-4e08-aec1-06cf6f5c3f78</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F76B2BD6D-CD6C-4D73-AB26-EA4B6E26FB39.png?alt=media&amp;token=bba8d35c-876c-420d-993e-241f9db70dff</SimpleData>
+		<SimpleData name="notes">R10P5</SimpleData>
+		<SimpleData name="row">10</SimpleData>
+		<SimpleData name="tree_idx">5</SimpleData>
+		<SimpleData name="biomass_kg">187.647305221661</SimpleData>
+		<SimpleData name="biomass_tonnes">0.187647305221661</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.3096180536157407</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5765627139067,37.2001559660185</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">79</SimpleData>
+		<SimpleData name="date">2022/10/19 17:23:21</SimpleData>
+		<SimpleData name="lat">37.200136184727</SimpleData>
+		<SimpleData name="lon">-80.57660638362221</SimpleData>
+		<SimpleData name="tree_id">3A378C02-FCF7-46C6-8A8D-ECC48F037E77</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">17.7174642682075</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F518D3C0B-F47C-415C-A823-069E8918CB57.png?alt=media&amp;token=b3df3c2d-1285-4797-a446-1c01f37c5e22</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FEFC2F138-2879-45E0-A7C5-6CE9D1C49742.png?alt=media&amp;token=5e964f3d-211f-451c-9db7-aa8c07befdae</SimpleData>
+		<SimpleData name="notes">R10P4</SimpleData>
+		<SimpleData name="row">10</SimpleData>
+		<SimpleData name="tree_idx">4</SimpleData>
+		<SimpleData name="biomass_kg">140.6646358404067</SimpleData>
+		<SimpleData name="biomass_tonnes">0.1406646358404067</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.2320966491366711</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5766063836222,37.200136184727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">80</SimpleData>
+		<SimpleData name="date">2022/10/19 17:24:28</SimpleData>
+		<SimpleData name="lat">37.2001103684652</SimpleData>
+		<SimpleData name="lon">-80.5766050425177</SimpleData>
+		<SimpleData name="tree_id">9A88CBEC-7FBB-4F4A-A6F5-740C4DB78433</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">19.2621126770973</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F54AE16FC-2D35-4DBA-A95A-5AE044A62536.png?alt=media&amp;token=68c65baf-a9a0-44d6-9289-736c0e9d3973</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FEC529696-EA37-4F10-82A4-4A24B44C8570.png?alt=media&amp;token=1ffff34c-d22a-46c0-ba36-7296e785a130</SimpleData>
+		<SimpleData name="notes">R10P3</SimpleData>
+		<SimpleData name="row">10</SimpleData>
+		<SimpleData name="tree_idx">3</SimpleData>
+		<SimpleData name="biomass_kg">172.5039209916959</SimpleData>
+		<SimpleData name="biomass_tonnes">0.1725039209916959</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.2846314696362982</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5766050425177,37.2001103684652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">81</SimpleData>
+		<SimpleData name="date">2022/10/19 17:25:44</SimpleData>
+		<SimpleData name="lat">37.2000308071718</SimpleData>
+		<SimpleData name="lon">-80.57667790274979</SimpleData>
+		<SimpleData name="tree_id">C000EB13-A658-428F-9313-6E75416F501B</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">23.0994492769241</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FC1B342D4-0521-4631-AEB3-B9F5B9C0FB9A.png?alt=media&amp;token=55cae527-f88a-4b13-8ae4-4e789e175112</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F1A07F30E-038B-417D-8595-492B5CB479C7.png?alt=media&amp;token=97545333-a705-4e6a-8fd8-329b83244746</SimpleData>
+		<SimpleData name="notes">R10P2</SimpleData>
+		<SimpleData name="row">10</SimpleData>
+		<SimpleData name="tree_idx">2</SimpleData>
+		<SimpleData name="biomass_kg">268.7746303981956</SimpleData>
+		<SimpleData name="biomass_tonnes">0.2687746303981956</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.4434781401570227</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5766779027498,37.2000308071718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">82</SimpleData>
+		<SimpleData name="date">2022/10/19 17:26:42</SimpleData>
+		<SimpleData name="lat">37.2000284353617</SimpleData>
+		<SimpleData name="lon">-80.5766847544168</SimpleData>
+		<SimpleData name="tree_id">50FBA950-2677-4974-B224-0C374D35EED7</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">23.9586904644966</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F50C5B772-9E6F-415F-AD91-916A395BFE9E.png?alt=media&amp;token=63e2aaa4-b9bf-454c-ac16-7bd35868ec67</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F862D03C7-2D5B-4372-BFCF-BF999417009F.png?alt=media&amp;token=ad8e6bad-d6c1-42ea-8a60-dbcb1f65c089</SimpleData>
+		<SimpleData name="notes">R10P1</SimpleData>
+		<SimpleData name="row">10</SimpleData>
+		<SimpleData name="tree_idx">1</SimpleData>
+		<SimpleData name="biomass_kg">293.8367249688781</SimpleData>
+		<SimpleData name="biomass_tonnes">0.2938367249688781</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.4848305961986489</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5766847544168,37.2000284353617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">83</SimpleData>
+		<SimpleData name="date">2022/10/19 17:29:00</SimpleData>
+		<SimpleData name="lat">37.2000850551176</SimpleData>
+		<SimpleData name="lon">-80.57690343827061</SimpleData>
+		<SimpleData name="tree_id">B70B2ECA-2117-4367-865C-375613A3CEFD</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">20.5311104655265</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FCED89BF1-7AA9-4CE8-8BE9-B57686792894.png?alt=media&amp;token=42c2698e-5aeb-4bc7-a73b-e408a393c8be</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F8E7B01FB-9F5A-423B-9392-E911879893FD.png?alt=media&amp;token=0c5870ca-58aa-4ff1-bcd0-bc42b7f93eaa</SimpleData>
+		<SimpleData name="notes">R11P1</SimpleData>
+		<SimpleData name="row">11</SimpleData>
+		<SimpleData name="tree_idx">1</SimpleData>
+		<SimpleData name="biomass_kg">201.574443701352</SimpleData>
+		<SimpleData name="biomass_tonnes">0.2015744437013521</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.3325978321072309</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5769034382706,37.2000850551176</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">84</SimpleData>
+		<SimpleData name="date">2022/10/19 17:31:00</SimpleData>
+		<SimpleData name="lat">37.2001632582742</SimpleData>
+		<SimpleData name="lon">-80.5772962142532</SimpleData>
+		<SimpleData name="tree_id">93859343-BC29-41A8-AEB2-B9BB52C30E3B</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">20.8815351128578</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F0AFE88BF-A692-48B1-8D85-48722D7E2E50.png?alt=media&amp;token=df43f790-20d5-46c5-b4ad-8fcf1b9049f9</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F38D722C9-FCE2-4F1B-89EF-41C6E97F48AE.png?alt=media&amp;token=65a1b3d8-788e-414d-8226-31e4a19024fe</SimpleData>
+		<SimpleData name="notes">R11P2</SimpleData>
+		<SimpleData name="row">11</SimpleData>
+		<SimpleData name="tree_idx">2</SimpleData>
+		<SimpleData name="biomass_kg">210.0761640730944</SimpleData>
+		<SimpleData name="biomass_tonnes">0.2100761640730944</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.3466256707206057</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5772962142532,37.2001632582742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">85</SimpleData>
+		<SimpleData name="date">2022/10/19 17:31:57</SimpleData>
+		<SimpleData name="lat">37.2002249490816</SimpleData>
+		<SimpleData name="lon">-80.5767293461417</SimpleData>
+		<SimpleData name="tree_id">B8D40707-BCAB-4DAB-9123-A53D88A46D84</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">19.7463423013687</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FF448093A-01E0-4C42-B3C9-063908D2D04C.png?alt=media&amp;token=8572ee83-4045-4685-a0ff-9a237e54cb01</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FE3F1E4C5-B7DD-451C-8CB5-ACA91006D41D.png?alt=media&amp;token=e511e201-99f0-468a-a45e-87e95a5b75de</SimpleData>
+		<SimpleData name="notes">R11P3</SimpleData>
+		<SimpleData name="row">11</SimpleData>
+		<SimpleData name="tree_idx">3</SimpleData>
+		<SimpleData name="biomass_kg">183.2819279938875</SimpleData>
+		<SimpleData name="biomass_tonnes">0.1832819279938875</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.3024151811899145</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5767293461417,37.2002249490816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">86</SimpleData>
+		<SimpleData name="date">2022/10/19 17:33:20</SimpleData>
+		<SimpleData name="lat">37.2003381466839</SimpleData>
+		<SimpleData name="lon">-80.57662507526619</SimpleData>
+		<SimpleData name="tree_id">6B6EA855-D2ED-44C5-9EAE-FA41A006A689</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">18.510003387928</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F6C44B7DF-EEAD-404E-8968-22BCA8076D3E.png?alt=media&amp;token=896cf0ea-f205-410a-beb5-3211c6328475</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FEE0C12AE-1BF5-4470-B84C-EDBB926D24DA.png?alt=media&amp;token=494db9e4-7781-47f5-a0ea-3db9c8916594</SimpleData>
+		<SimpleData name="notes">R11P4</SimpleData>
+		<SimpleData name="row">11</SimpleData>
+		<SimpleData name="tree_idx">4</SimpleData>
+		<SimpleData name="biomass_kg">156.5222084242807</SimpleData>
+		<SimpleData name="biomass_tonnes">0.1565222084242807</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.2582616439000632</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5766250752662,37.2003381466839</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">87</SimpleData>
+		<SimpleData name="date">2022/10/19 17:34:43</SimpleData>
+		<SimpleData name="lat">37.2003600234513</SimpleData>
+		<SimpleData name="lon">-80.57654435753869</SimpleData>
+		<SimpleData name="tree_id">8410964C-6FAE-4079-9DFA-80F3459A179E</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">20.8329334855079</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F829E3AE5-5AB2-4203-876D-B2A48921A051.png?alt=media&amp;token=56fcad8a-8309-4d10-8f4c-7157a5c8ebb3</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F28C8E417-1E4B-4453-95B0-00EBF9010F10.png?alt=media&amp;token=5ad420b9-e0fc-4fd8-9d18-285154330879</SimpleData>
+		<SimpleData name="notes">R11P5</SimpleData>
+		<SimpleData name="row">11</SimpleData>
+		<SimpleData name="tree_idx">5</SimpleData>
+		<SimpleData name="biomass_kg">208.8846359673279</SimpleData>
+		<SimpleData name="biomass_tonnes">0.2088846359673279</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.344659649346091</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5765443575387,37.2003600234513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">88</SimpleData>
+		<SimpleData name="date">2022/10/19 17:36:14</SimpleData>
+		<SimpleData name="lat">37.2005274938765</SimpleData>
+		<SimpleData name="lon">-80.57641066618309</SimpleData>
+		<SimpleData name="tree_id">7538001C-0BE6-4467-A664-DEF82A4ADD39</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">19.7776108980178</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F8FAF7FDC-994C-44F3-A7FD-8A95E8A9E824.png?alt=media&amp;token=f4f821ad-118e-4216-8852-a27d77ea0bf3</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FCE5835FA-E46D-4678-B8B0-159C225A31A7.png?alt=media&amp;token=2fe2cfa4-7439-49e4-ac98-e9ae30a4a18c</SimpleData>
+		<SimpleData name="notes">R11P6</SimpleData>
+		<SimpleData name="row">11</SimpleData>
+		<SimpleData name="tree_idx">6</SimpleData>
+		<SimpleData name="biomass_kg">183.9911863837438</SimpleData>
+		<SimpleData name="biomass_tonnes">0.1839911863837438</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.3035854575331773</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5764106661831,37.2005274938765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">89</SimpleData>
+		<SimpleData name="date">2022/10/19 17:38:43</SimpleData>
+		<SimpleData name="lat">37.2005283739764</SimpleData>
+		<SimpleData name="lon">-80.57650848299311</SimpleData>
+		<SimpleData name="tree_id">F2F94FCC-85DF-4F94-92DE-A37EC5978E9C</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">27.5144308805465</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FAB7813BC-DE7C-4F7D-B08F-02AC68EA30DF.png?alt=media&amp;token=d2039bd9-c2ae-4744-94ca-91eb4213c947</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F45DAD1B4-CA24-48E0-87B0-1C74CB4E9868.png?alt=media&amp;token=3b2da654-5e2f-4a8d-9c40-e566c65440c5</SimpleData>
+		<SimpleData name="notes">R12P6</SimpleData>
+		<SimpleData name="row">12</SimpleData>
+		<SimpleData name="tree_idx">6</SimpleData>
+		<SimpleData name="biomass_kg">411.9115487762085</SimpleData>
+		<SimpleData name="biomass_tonnes">0.4119115487762084</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.6796540554807441</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5765084829931,37.2005283739764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">90</SimpleData>
+		<SimpleData name="date">2022/10/19 17:40:14</SimpleData>
+		<SimpleData name="lat">37.2004974209785</SimpleData>
+		<SimpleData name="lon">-80.5765616681755</SimpleData>
+		<SimpleData name="tree_id">9CA3FFB4-728B-4983-8D17-F45B308AED6C</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">17.9966643452644</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FE474929D-3D69-4C04-8C48-FD1F35F710E0.png?alt=media&amp;token=b0107030-41e5-455d-b926-8f42739624bd</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F16B32AE7-5C01-446B-B747-E09A0E3161D1.png?alt=media&amp;token=481ea8f6-8f73-49dc-b978-4e47b2c2eb84</SimpleData>
+		<SimpleData name="notes">R12P5</SimpleData>
+		<SimpleData name="row">12</SimpleData>
+		<SimpleData name="tree_idx">5</SimpleData>
+		<SimpleData name="biomass_kg">146.1370773604164</SimpleData>
+		<SimpleData name="biomass_tonnes">0.1461370773604164</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.241126177644687</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5765616681755,37.2004974209785</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">91</SimpleData>
+		<SimpleData name="date">2022/10/19 17:41:43</SimpleData>
+		<SimpleData name="lat">37.2004113626081</SimpleData>
+		<SimpleData name="lon">-80.576560869888</SimpleData>
+		<SimpleData name="tree_id">2A1301ED-DE97-46FD-AEF7-F12180C05492</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">17.7601039409637</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F22CC1E16-2544-4513-8991-0998EB579BFD.png?alt=media&amp;token=13eca880-5f4d-4d7a-9edc-8c4d8a4c8ca9</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F69186335-6F57-444E-BA86-5D1E9CA2E056.png?alt=media&amp;token=92bd6439-265d-48a1-b7f2-a9febe0f6586</SimpleData>
+		<SimpleData name="notes">R12P4</SimpleData>
+		<SimpleData name="row">12</SimpleData>
+		<SimpleData name="tree_idx">4</SimpleData>
+		<SimpleData name="biomass_kg">141.4924210807363</SimpleData>
+		<SimpleData name="biomass_tonnes">0.1414924210807363</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.2334624947832149</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.576560869888,37.2004113626081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">92</SimpleData>
+		<SimpleData name="date">2022/10/19 17:42:52</SimpleData>
+		<SimpleData name="lat">37.2003114656734</SimpleData>
+		<SimpleData name="lon">-80.57664071427349</SimpleData>
+		<SimpleData name="tree_id">5A514E6E-8A80-4D19-A73D-CB8039DCB481</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">24.8084127902984</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F7BCB8378-A4C6-4020-A78F-FE9763B606FD.png?alt=media&amp;token=db3a64ca-8aaa-4dad-9cf1-c045e413afba</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FF4235A20-1B35-4C1B-9B85-A74AF53938C9.png?alt=media&amp;token=138d6455-eeb8-48e5-8ff2-7fc39df960b2</SimpleData>
+		<SimpleData name="notes">R12P3</SimpleData>
+		<SimpleData name="row">12</SimpleData>
+		<SimpleData name="tree_idx">3</SimpleData>
+		<SimpleData name="biomass_kg">319.9284145423377</SimpleData>
+		<SimpleData name="biomass_tonnes">0.3199284145423378</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.5278818839948574</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5766407142735,37.2003114656734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">93</SimpleData>
+		<SimpleData name="date">2022/10/19 17:44:22</SimpleData>
+		<SimpleData name="lat">37.200197499289</SimpleData>
+		<SimpleData name="lon">-80.5767874217358</SimpleData>
+		<SimpleData name="tree_id">7F7F953E-58B4-4713-8B9C-EAA1806C9F10</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">23.5453486442565</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FD92973FF-5823-4A46-BD47-8FA5FDE1BDE1.png?alt=media&amp;token=b89e0f57-2eb1-45db-9f1e-4b60b23e582f</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F8E6B9A70-0D55-455E-B94B-F606F8013561.png?alt=media&amp;token=9363695a-0dfe-40d8-b77c-301fed0426cc</SimpleData>
+		<SimpleData name="notes">R12P2</SimpleData>
+		<SimpleData name="row">12</SimpleData>
+		<SimpleData name="tree_idx">2</SimpleData>
+		<SimpleData name="biomass_kg">281.6158642222769</SimpleData>
+		<SimpleData name="biomass_tonnes">0.2816158642222769</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.464666175966757</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5767874217358,37.200197499289</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">94</SimpleData>
+		<SimpleData name="date">2022/10/19 17:45:39</SimpleData>
+		<SimpleData name="lat">37.2001899127263</SimpleData>
+		<SimpleData name="lon">-80.57690083988059</SimpleData>
+		<SimpleData name="tree_id">83D5F59A-46E5-4805-B50B-8782EAC401A2</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">17.8058803081512</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F62EB65D5-9F99-49A6-97FC-73B9238627C2.png?alt=media&amp;token=0c93fb4a-6797-4950-8491-8aafd2bc30f3</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F55F6DBB3-E824-4F49-9149-9D376EEEE828.png?alt=media&amp;token=c943b15d-e139-435a-85f4-26707c6fbf0b</SimpleData>
+		<SimpleData name="notes">R12P1</SimpleData>
+		<SimpleData name="row">12</SimpleData>
+		<SimpleData name="tree_idx">1</SimpleData>
+		<SimpleData name="biomass_kg">142.3842937454022</SimpleData>
+		<SimpleData name="biomass_tonnes">0.1423842937454022</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.2349340846799136</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5769008398806,37.2001899127263</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">95</SimpleData>
+		<SimpleData name="date">2022/10/19 17:47:07</SimpleData>
+		<SimpleData name="lat">37.2001524456193</SimpleData>
+		<SimpleData name="lon">-80.5769325234746</SimpleData>
+		<SimpleData name="tree_id">642B2C86-C7D6-4BEA-ABE9-C0168962F109</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">26.3486683368682</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F1FA34117-5BB4-4FFD-947F-658474F07F17.png?alt=media&amp;token=a41cd666-a624-42a4-b1fc-fbf8d654e7a2</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F1C2CDCE7-1D12-4BD1-90B8-EFDCF90AAB1A.png?alt=media&amp;token=2cf55834-938e-4a14-a9d8-ed53b8e84ac6</SimpleData>
+		<SimpleData name="notes">R13P1</SimpleData>
+		<SimpleData name="row">13</SimpleData>
+		<SimpleData name="tree_idx">1</SimpleData>
+		<SimpleData name="biomass_kg">370.6027351261005</SimpleData>
+		<SimpleData name="biomass_tonnes">0.3706027351261005</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.6114945129580659</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5769325234746,37.2001524456193</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">96</SimpleData>
+		<SimpleData name="date">2022/10/19 17:48:46</SimpleData>
+		<SimpleData name="lat">37.2002796872649</SimpleData>
+		<SimpleData name="lon">-80.5769438375653</SimpleData>
+		<SimpleData name="tree_id">AE17F8CE-A675-419B-B7F9-94ED9CB0E9EC</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">20.679385960102</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FE223EBE1-D257-4231-9C0F-B07BAF6893EA.png?alt=media&amp;token=dafd568d-ebca-46bf-9d76-51339401d3ea</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F26877A9D-B0A9-448E-B07A-F9256AC6606F.png?alt=media&amp;token=790eefdd-73e6-4408-9b02-6fd6f4e15af7</SimpleData>
+		<SimpleData name="notes">R13P2</SimpleData>
+		<SimpleData name="row">13</SimpleData>
+		<SimpleData name="tree_idx">2</SimpleData>
+		<SimpleData name="biomass_kg">205.1464855917712</SimpleData>
+		<SimpleData name="biomass_tonnes">0.2051464855917711</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.3384917012264224</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5769438375653,37.2002796872649</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">97</SimpleData>
+		<SimpleData name="date">2022/10/19 17:49:58</SimpleData>
+		<SimpleData name="lat">37.2003985382963</SimpleData>
+		<SimpleData name="lon">-80.57682582184719</SimpleData>
+		<SimpleData name="tree_id">965392A6-01AD-4D9A-AF21-80B32E15AD28</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">19.8022186756134</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FAC20F3E6-3555-48AC-A2AE-23C72ACCDF20.png?alt=media&amp;token=6cedc6a7-c804-41e7-b1e7-77511580ee98</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FD269823D-08C8-4FEA-9768-82C98E433372.png?alt=media&amp;token=232f51b8-a5f3-4d16-b057-c62e3c2ae92c</SimpleData>
+		<SimpleData name="notes">R13P3</SimpleData>
+		<SimpleData name="row">13</SimpleData>
+		<SimpleData name="tree_idx">3</SimpleData>
+		<SimpleData name="biomass_kg">184.5504963906872</SimpleData>
+		<SimpleData name="biomass_tonnes">0.1845504963906872</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.304508319044634</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5768258218472,37.2003985382963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">98</SimpleData>
+		<SimpleData name="date">2022/10/19 17:51:54</SimpleData>
+		<SimpleData name="lat">37.2004725887283</SimpleData>
+		<SimpleData name="lon">-80.5768206766333</SimpleData>
+		<SimpleData name="tree_id">97814130-BEFB-4AB2-8535-B8AD835BCD1D</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">30.0397962331771</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F90339A27-1600-45E8-B022-F245AD4D6AD0.png?alt=media&amp;token=723f1575-72cb-4491-9fdd-8fd958113672</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FBE3EE4EA-83A4-4298-B9FD-B87570C71FA1.png?alt=media&amp;token=731560d9-ff14-470e-af53-f255d3eff503</SimpleData>
+		<SimpleData name="notes">R13P4</SimpleData>
+		<SimpleData name="row">13</SimpleData>
+		<SimpleData name="tree_idx">4</SimpleData>
+		<SimpleData name="biomass_kg">510.3816349216595</SimpleData>
+		<SimpleData name="biomass_tonnes">0.5103816349216596</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.8421296976207383</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5768206766333,37.2004725887283</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">99</SimpleData>
+		<SimpleData name="date">2022/10/19 17:57:21</SimpleData>
+		<SimpleData name="lat">37.2005603090275</SimpleData>
+		<SimpleData name="lon">-80.5766569264983</SimpleData>
+		<SimpleData name="tree_id">6EDB61F5-46CA-4521-9326-71FE491B5C91</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">24.0006536245346</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F2D62E170-95B5-48B9-9EB5-3DDFB53DA211.png?alt=media&amp;token=cd939289-b4eb-4060-9cea-035a2727e3b0</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F7D3CBD03-49DC-4512-9D3F-E79055D46317.png?alt=media&amp;token=f01ae97a-e1c1-4556-8784-17ccddab39e3</SimpleData>
+		<SimpleData name="notes">R13P5</SimpleData>
+		<SimpleData name="row">13</SimpleData>
+		<SimpleData name="tree_idx">5</SimpleData>
+		<SimpleData name="biomass_kg">295.0945690553199</SimpleData>
+		<SimpleData name="biomass_tonnes">0.2950945690553199</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.4869060389412778</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5766569264983,37.2005603090275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">100</SimpleData>
+		<SimpleData name="date">2022/10/19 17:58:58</SimpleData>
+		<SimpleData name="lat">37.2005632007842</SimpleData>
+		<SimpleData name="lon">-80.5767045357083</SimpleData>
+		<SimpleData name="tree_id">E1311398-77C3-43C8-BCD2-BDACBCFE1E5D</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">20.9762096405029</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FBD39A081-93DB-476D-9A4A-743E29BF1B09.png?alt=media&amp;token=8f03744e-675a-40b6-bedf-9b8f81882d21</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F918AFEE2-0C1F-4779-AA4B-37165064EA5B.png?alt=media&amp;token=7929b32f-7801-4729-b13f-0031ce8de56b</SimpleData>
+		<SimpleData name="notes">R13P6</SimpleData>
+		<SimpleData name="row">13</SimpleData>
+		<SimpleData name="tree_idx">6</SimpleData>
+		<SimpleData name="biomass_kg">212.4087229083385</SimpleData>
+		<SimpleData name="biomass_tonnes">0.2124087229083385</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.3504743927987586</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5767045357083,37.2005632007842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">101</SimpleData>
+		<SimpleData name="date">2022/10/19 17:59:58</SimpleData>
+		<SimpleData name="lat">37.2006544378001</SimpleData>
+		<SimpleData name="lon">-80.5766477902238</SimpleData>
+		<SimpleData name="tree_id">E9C2A35F-E65A-46DB-8B51-DC876F9749B7</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">27.5609940290451</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F05BA570E-6CA0-450C-9DF7-AFE9175E7C4F.png?alt=media&amp;token=e1ab35da-7f0f-4ee3-b17f-c5579f6e3c1e</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FC226D3B4-35CB-4B9A-8442-05E35B9ABCFE.png?alt=media&amp;token=c434052d-a104-4e46-8587-068426ef463f</SimpleData>
+		<SimpleData name="notes">R14P5</SimpleData>
+		<SimpleData name="row">14</SimpleData>
+		<SimpleData name="tree_idx">5</SimpleData>
+		<SimpleData name="biomass_kg">413.6152086829947</SimpleData>
+		<SimpleData name="biomass_tonnes">0.4136152086829947</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.6824650943269414</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5766477902238,37.2006544378001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">102</SimpleData>
+		<SimpleData name="date">2022/10/19 18:01:04</SimpleData>
+		<SimpleData name="lat">37.2005632007842</SimpleData>
+		<SimpleData name="lon">-80.5767045357083</SimpleData>
+		<SimpleData name="tree_id">7046502D-248F-42E6-9FE8-EC2E8091A302</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">15.5338704586029</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F4244DD70-868F-4743-B044-690B86A65D1C.png?alt=media&amp;token=4860788e-e818-4981-8c59-c5b69fb79436</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F35517DE0-BC09-4B84-8142-DAC7E8EE79B0.png?alt=media&amp;token=4600d1e5-7dd8-4713-ab9d-16e576a8f8e1</SimpleData>
+		<SimpleData name="notes">R14P4</SimpleData>
+		<SimpleData name="row">14</SimpleData>
+		<SimpleData name="tree_idx">4</SimpleData>
+		<SimpleData name="biomass_kg">102.0352895929983</SimpleData>
+		<SimpleData name="biomass_tonnes">0.1020352895929983</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.1683582278284471</SimpleData>
+		<SimpleData name="outlier">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5767045357083,37.2005632007842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">103</SimpleData>
+		<SimpleData name="date">2022/10/19 18:02:01</SimpleData>
+		<SimpleData name="lat">37.2005990374199</SimpleData>
+		<SimpleData name="lon">-80.5767715538534</SimpleData>
+		<SimpleData name="tree_id">BEEB8531-2D9B-4EF7-B62D-4D50DB467118</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">14.3597736954689</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F7C8AA50B-9E41-47A9-A0FE-072F23E937E5.png?alt=media&amp;token=ddabf12b-da41-43e4-a8b4-75af71e78c3c</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F87212F4D-65A9-4592-8D2F-06225BF014B7.png?alt=media&amp;token=69266a0d-86bb-4e82-b069-037d9e83d7ad</SimpleData>
+		<SimpleData name="notes">R14P3</SimpleData>
+		<SimpleData name="row">14</SimpleData>
+		<SimpleData name="tree_idx">3</SimpleData>
+		<SimpleData name="biomass_kg">84.22363586777946</SimpleData>
+		<SimpleData name="biomass_tonnes">0.08422363586777946</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.1389689991818361</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5767715538534,37.2005990374199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">104</SimpleData>
+		<SimpleData name="date">2022/10/19 18:04:37</SimpleData>
+		<SimpleData name="lat">37.2005148791123</SimpleData>
+		<SimpleData name="lon">-80.57678315796009</SimpleData>
+		<SimpleData name="tree_id">5A2E724C-D118-42AA-A79E-C1F303BFFDFA</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">18.5875833034515</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F127539EF-FAF3-49E6-91CD-35519E494970.png?alt=media&amp;token=f338a443-626a-4a45-bfa6-e10ed7596a3e</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F5DCC7B8D-12DC-4EEF-B8FA-6D72032DA400.png?alt=media&amp;token=0d71db7b-6124-4a9b-8a47-2b004c82ca28</SimpleData>
+		<SimpleData name="notes">R14P2</SimpleData>
+		<SimpleData name="row">14</SimpleData>
+		<SimpleData name="tree_idx">2</SimpleData>
+		<SimpleData name="biomass_kg">158.1283982019592</SimpleData>
+		<SimpleData name="biomass_tonnes">0.1581283982019591</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.2609118570332326</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5767831579601,37.2005148791123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">105</SimpleData>
+		<SimpleData name="date">2022/10/19 18:08:21</SimpleData>
+		<SimpleData name="lat">37.2004254861151</SimpleData>
+		<SimpleData name="lon">-80.57689472109119</SimpleData>
+		<SimpleData name="tree_id">3D50BCCF-F20D-4FE9-890C-14D7A8A131B2</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">17.465254664421</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FAD33282B-4D6C-43BB-8E1C-F5EA58F68C50.png?alt=media&amp;token=a8f3a978-7d80-4f65-9290-7ab4ac92ed40</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FF70401A1-B625-4F8F-83A6-8D8775D3F196.png?alt=media&amp;token=3dba4814-1698-4fdd-8db2-0c766fedc9ec</SimpleData>
+		<SimpleData name="notes">R14P1</SimpleData>
+		<SimpleData name="row">14</SimpleData>
+		<SimpleData name="tree_idx">1</SimpleData>
+		<SimpleData name="biomass_kg">135.8268692864655</SimpleData>
+		<SimpleData name="biomass_tonnes">0.1358268692864655</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.2241143343226681</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5768947210912,37.2004254861151</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">24</SimpleData>
+		<SimpleData name="date">2022/10/19 18:09:39</SimpleData>
+		<SimpleData name="lat">37.1999851847413</SimpleData>
+		<SimpleData name="lon">-80.5769834016268</SimpleData>
+		<SimpleData name="tree_id">74FD9EB5-F7D5-427A-8C5B-BD1FDB2E9DF9</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">16.7299449443817</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F4E487F31-4C7A-4701-831E-93B810F8E120.png?alt=media&amp;token=37019a09-a01c-449f-a743-5fb9b8b5571b</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FAF322C1A-9A0F-48EC-B821-25309E2F5842.png?alt=media&amp;token=daaf7686-7ddb-4424-9967-6854a9739a36</SimpleData>
+		<SimpleData name="notes">R15P1</SimpleData>
+		<SimpleData name="row">15</SimpleData>
+		<SimpleData name="tree_idx">1</SimpleData>
+		<SimpleData name="biomass_kg">105.2788148299465</SimpleData>
+		<SimpleData name="biomass_tonnes">0.1052788148299465</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.1737100444694117</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5769834016268,37.1999851847413</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">25</SimpleData>
+		<SimpleData name="date">2022/10/19 18:11:42</SimpleData>
+		<SimpleData name="lat">37.2005872568462</SimpleData>
+		<SimpleData name="lon">-80.5770268198853</SimpleData>
+		<SimpleData name="tree_id">EC631520-2F13-4FDC-87BA-A02E053D5D8A</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">22.1502110362052</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F41BFF90B-BC91-437C-BB08-6AB3B16506E0.png?alt=media&amp;token=81304907-7f3b-4587-8d8f-8a75447ce2bd</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F64ADB065-AE2D-4EC7-85CB-402E2C393B40.png?alt=media&amp;token=0f3dd09f-2f7d-4f6f-858a-42d5f36e79d7</SimpleData>
+		<SimpleData name="notes">R15P2</SimpleData>
+		<SimpleData name="row">15</SimpleData>
+		<SimpleData name="tree_idx">2</SimpleData>
+		<SimpleData name="biomass_kg">214.9689233344084</SimpleData>
+		<SimpleData name="biomass_tonnes">0.2149689233344084</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.3546987235017738</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5770268198853,37.2005872568462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">26</SimpleData>
+		<SimpleData name="date">2022/10/19 18:13:22</SimpleData>
+		<SimpleData name="lat">37.2009501932535</SimpleData>
+		<SimpleData name="lon">-80.5769616086786</SimpleData>
+		<SimpleData name="tree_id">AAC9EC50-35DC-477B-B181-3EB5E2849DCB</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">24.8531594872474</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FA65CB02F-9226-4667-B50B-12DAD9A34D45.png?alt=media&amp;token=428b844c-f049-414a-a225-5609cbfd57c5</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F6D204C81-EF91-47D8-B86E-9BF89B30ED18.png?alt=media&amp;token=0c2d83ca-145c-4a12-aa86-1e3d5f157940</SimpleData>
+		<SimpleData name="notes">R15P3</SimpleData>
+		<SimpleData name="row">15</SimpleData>
+		<SimpleData name="tree_idx">3</SimpleData>
+		<SimpleData name="biomass_kg">288.1178669241358</SimpleData>
+		<SimpleData name="biomass_tonnes">0.2881178669241358</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.4753944804248241</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5769616086786,37.2009501932535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">27</SimpleData>
+		<SimpleData name="date">2022/10/19 18:15:32</SimpleData>
+		<SimpleData name="lat">37.2008183197797</SimpleData>
+		<SimpleData name="lon">-80.5769616086786</SimpleData>
+		<SimpleData name="tree_id">29A54A8A-97B4-44A7-A4D6-EFAFB91FCB61</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">23.5999822616577</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F0649298C-E2DB-4851-81E2-C2C0B2954DF7.png?alt=media&amp;token=82465945-61b2-423f-898e-a4c5a20001fa</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F54831849-43FD-4FFC-AB40-2A9EA250FC3E.png?alt=media&amp;token=ae7b57d5-6709-473c-8df0-1f1c06323d78</SimpleData>
+		<SimpleData name="notes">R15P4</SimpleData>
+		<SimpleData name="row">15</SimpleData>
+		<SimpleData name="tree_idx">4</SimpleData>
+		<SimpleData name="biomass_kg">252.5884159209838</SimpleData>
+		<SimpleData name="biomass_tonnes">0.2525884159209838</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.4167708862696233</SimpleData>
+		<SimpleData name="outlier">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5769616086786,37.2008183197797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">28</SimpleData>
+		<SimpleData name="date">2022/10/19 18:17:52</SimpleData>
+		<SimpleData name="lat">37.2008183197797</SimpleData>
+		<SimpleData name="lon">-80.5768003820173</SimpleData>
+		<SimpleData name="tree_id">00472679-24F2-4DEF-916D-723AD9E277C8</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">29.3880820274353</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FEA8B67C5-BB4C-40E8-AF98-E98E8FA30949.png?alt=media&amp;token=838e19c6-7415-4fdf-847c-6fb1866ec712</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FECF7FC3B-4933-4592-B23E-4841C68AD2F5.png?alt=media&amp;token=55d48e62-aeab-4ddf-9b22-2e436f894172</SimpleData>
+		<SimpleData name="notes">R15P5</SimpleData>
+		<SimpleData name="row">15</SimpleData>
+		<SimpleData name="tree_idx">5</SimpleData>
+		<SimpleData name="biomass_kg">441.2911211102923</SimpleData>
+		<SimpleData name="biomass_tonnes">0.4412911211102923</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.7281303498319823</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5768003820173,37.2008183197797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">29</SimpleData>
+		<SimpleData name="date">2022/10/19 18:18:50</SimpleData>
+		<SimpleData name="lat">37.2008183197797</SimpleData>
+		<SimpleData name="lon">-80.5769616086786</SimpleData>
+		<SimpleData name="tree_id">2693FAE1-816B-4A74-9AC0-098747F09CC2</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">28.2605469226837</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FB3B8B793-E419-43ED-B3AA-2648FEB817B3.png?alt=media&amp;token=7aa36173-646b-4306-9381-33b9188d3294</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F3DB069B7-EE31-42E0-8674-98BB4FF5983E.png?alt=media&amp;token=fcad772b-0d21-484a-a9aa-0fbd4118f922</SimpleData>
+		<SimpleData name="notes">R16P5</SimpleData>
+		<SimpleData name="row">16</SimpleData>
+		<SimpleData name="tree_idx">5</SimpleData>
+		<SimpleData name="biomass_kg">399.4900752216855</SimpleData>
+		<SimpleData name="biomass_tonnes">0.3994900752216854</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.6591586241157811</SimpleData>
+		<SimpleData name="outlier">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5769616086786,37.2008183197797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">30</SimpleData>
+		<SimpleData name="date">2022/10/19 18:21:03</SimpleData>
+		<SimpleData name="lat">37.2008671285932</SimpleData>
+		<SimpleData name="lon">-80.57690352208959</SimpleData>
+		<SimpleData name="tree_id">34C5BCEE-A80F-41A4-9B63-B9BFC78D9F19</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">26.5991687774658</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FC63BC0BD-468B-43D0-8BD7-93F75C851692.png?alt=media&amp;token=86e0fe09-d73f-4593-8615-f605ac1ea8ad</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F98213C7B-09FB-4E66-9C11-CC6F9839042F.png?alt=media&amp;token=2c80c411-13b4-4867-a3e7-ba8687f549ef</SimpleData>
+		<SimpleData name="notes">R16P4</SimpleData>
+		<SimpleData name="row">16</SimpleData>
+		<SimpleData name="tree_idx">4</SimpleData>
+		<SimpleData name="biomass_kg">342.4324357497816</SimpleData>
+		<SimpleData name="biomass_tonnes">0.3424324357497817</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.5650135189871398</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5769035220896,37.2008671285932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">31</SimpleData>
+		<SimpleData name="date">2022/10/19 18:23:01</SimpleData>
+		<SimpleData name="lat">37.2008080322127</SimpleData>
+		<SimpleData name="lon">-80.57699309381211</SimpleData>
+		<SimpleData name="tree_id">CA6EB7DB-56AF-4A6B-8336-0490442F82D9</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">25.3169029951095</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F0B4E5894-CEC0-4C33-854C-A4696122DA3F.png?alt=media&amp;token=a737d007-7e28-401a-9091-10963afd1033</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FB2B2E1B4-C079-4DE3-AE6D-7E9660DC0E34.png?alt=media&amp;token=89e72055-e278-42f1-bc51-9c7e62047489</SimpleData>
+		<SimpleData name="notes">R16P3</SimpleData>
+		<SimpleData name="row">16</SimpleData>
+		<SimpleData name="tree_idx">3</SimpleData>
+		<SimpleData name="biomass_kg">301.99064089836</SimpleData>
+		<SimpleData name="biomass_tonnes">0.30199064089836</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.498284557482294</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5769930938121,37.2008080322127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">32</SimpleData>
+		<SimpleData name="date">2022/10/19 18:24:06</SimpleData>
+		<SimpleData name="lat">37.2006575391044</SimpleData>
+		<SimpleData name="lon">-80.57704936720479</SimpleData>
+		<SimpleData name="tree_id">C9BD8F64-2B49-434B-A116-323C964674A5</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">26.4068037271499</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F747CB29D-AA3F-41CA-9AF2-62BF3B95C523.png?alt=media&amp;token=7993a186-078b-4f1c-8799-c347e74ce7c4</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FD76E9511-EDA1-4D70-A726-0232060D9261.png?alt=media&amp;token=59699387-44a7-4aa4-8f82-c5cffab8555d</SimpleData>
+		<SimpleData name="notes">R16P2</SimpleData>
+		<SimpleData name="row">16</SimpleData>
+		<SimpleData name="tree_idx">2</SimpleData>
+		<SimpleData name="biomass_kg">336.1681572372861</SimpleData>
+		<SimpleData name="biomass_tonnes">0.3361681572372861</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.5546774594415221</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5770493672048,37.2006575391044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">33</SimpleData>
+		<SimpleData name="date">2022/10/19 18:25:48</SimpleData>
+		<SimpleData name="lat">37.2005556970089</SimpleData>
+		<SimpleData name="lon">-80.57709538500821</SimpleData>
+		<SimpleData name="tree_id">6307B9A8-DDCB-4D7D-A050-BB796F7E1176</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">21.4191108942031</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FA4945360-0BAC-4031-9A65-731B0F84FE64.png?alt=media&amp;token=ac377423-27e0-41b5-828c-a840cf6e6b79</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FE90DDC8A-F1DF-41A0-8E87-19A82D4D648B.png?alt=media&amp;token=254e58dc-b7c5-4cbb-9d62-b457e5902a64</SimpleData>
+		<SimpleData name="notes">R16P1</SimpleData>
+		<SimpleData name="row">16</SimpleData>
+		<SimpleData name="tree_idx">1</SimpleData>
+		<SimpleData name="biomass_kg">197.3774886571983</SimpleData>
+		<SimpleData name="biomass_tonnes">0.1973774886571983</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.3256728562843772</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5770953850082,37.2005556970089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">34</SimpleData>
+		<SimpleData name="date">2022/10/19 18:27:20</SimpleData>
+		<SimpleData name="lat">37.200653375308</SimpleData>
+		<SimpleData name="lon">-80.57719310447909</SimpleData>
+		<SimpleData name="tree_id">8DEF493B-3A4A-407A-A11C-BF15BE1DCBAB</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">27.2815555334091</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FB42CAB68-8BA1-4B28-90F9-683CF4E6BD06.png?alt=media&amp;token=4d22b484-a566-4b81-85c6-83d94127ebb7</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F04961D0A-0823-4E2C-BFF0-7B47A06FCF30.png?alt=media&amp;token=97d93906-d5ed-44eb-ab75-48a0a3701b78</SimpleData>
+		<SimpleData name="notes">R17P1</SimpleData>
+		<SimpleData name="row">17</SimpleData>
+		<SimpleData name="tree_idx">1</SimpleData>
+		<SimpleData name="biomass_kg">365.2231531175408</SimpleData>
+		<SimpleData name="biomass_tonnes">0.3652231531175408</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.6026182026439423</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5771931044791,37.200653375308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">35</SimpleData>
+		<SimpleData name="date">2022/10/19 18:28:37</SimpleData>
+		<SimpleData name="lat">37.2007570161443</SimpleData>
+		<SimpleData name="lon">-80.5771019023971</SimpleData>
+		<SimpleData name="tree_id">930A4BE0-8119-4CD3-8A54-3892C0AB6751</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">28.8738965988159</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FBB0D29BF-00FC-4769-903E-D577249EA873.png?alt=media&amp;token=e29da149-e89a-4843-80cf-3bf3ad663787</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FA69D352F-FBE3-433F-BCF4-CC9EF1620602.png?alt=media&amp;token=c36378ae-56db-48b3-b5f5-e6722e5ec0aa</SimpleData>
+		<SimpleData name="notes">R17P2</SimpleData>
+		<SimpleData name="row">17</SimpleData>
+		<SimpleData name="tree_idx">2</SimpleData>
+		<SimpleData name="biomass_kg">421.9155925377128</SimpleData>
+		<SimpleData name="biomass_tonnes">0.4219155925377128</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.696160727687226</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5771019023971,37.2007570161443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">36</SimpleData>
+		<SimpleData name="date">2022/10/19 18:29:47</SimpleData>
+		<SimpleData name="lat">37.2008209149796</SimpleData>
+		<SimpleData name="lon">-80.5770370681675</SimpleData>
+		<SimpleData name="tree_id">60D5ABB0-08B5-4FBC-AA0E-3A017EE0256F</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">29.5388340950012</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F8DB8D199-B9E5-4D46-AA46-56E1B0E15101.png?alt=media&amp;token=5920aea5-dae3-417a-9cb2-c9ef35d51818</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FDB86FA3B-B095-4404-BCCE-DD9A09A5B4F0.png?alt=media&amp;token=9205b0e5-6dde-4dbf-837f-b3e713539ef9</SimpleData>
+		<SimpleData name="notes">R17P3</SimpleData>
+		<SimpleData name="row">17</SimpleData>
+		<SimpleData name="tree_idx">3</SimpleData>
+		<SimpleData name="biomass_kg">447.0720927318152</SimpleData>
+		<SimpleData name="biomass_tonnes">0.4470720927318152</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.737668953007495</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5770370681675,37.2008209149796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">37</SimpleData>
+		<SimpleData name="date">2022/10/19 18:30:53</SimpleData>
+		<SimpleData name="lat">37.2008535492924</SimpleData>
+		<SimpleData name="lon">-80.5769709646593</SimpleData>
+		<SimpleData name="tree_id">46355544-0A50-40FB-A6BA-0584523E569D</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">27.1144866943359</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FE2E2876E-1D43-46F0-9202-9294B7D72757.png?alt=media&amp;token=e5f9c87e-dc22-41ce-a8ae-b8fac83c958e</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F3D951495-8BFE-43EC-BE36-495245A508F3.png?alt=media&amp;token=a0c4aefc-55d9-40ed-a0d5-1352e5186274</SimpleData>
+		<SimpleData name="notes">R17P4</SimpleData>
+		<SimpleData name="row">17</SimpleData>
+		<SimpleData name="tree_idx">4</SimpleData>
+		<SimpleData name="biomass_kg">359.560823387506</SimpleData>
+		<SimpleData name="biomass_tonnes">0.359560823387506</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.593275358589385</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5769709646593,37.2008535492924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">38</SimpleData>
+		<SimpleData name="date">2022/10/19 18:32:04</SimpleData>
+		<SimpleData name="lat">37.2009892414721</SimpleData>
+		<SimpleData name="lon">-80.5770679960286</SimpleData>
+		<SimpleData name="tree_id">9E230C1F-5D8E-4CF0-881F-DDA71BC9934A</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">27.7348518371582</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FAA44976F-2173-4F5E-97D8-B4A320C518B6.png?alt=media&amp;token=6091210e-cf33-43fe-ae4f-eb6678aa33c7</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F35148C89-D2A0-4FEF-BD11-00F3A377CBF8.png?alt=media&amp;token=70d95e53-6724-43e1-9247-08b0d22b5990</SimpleData>
+		<SimpleData name="notes">R18P4</SimpleData>
+		<SimpleData name="row">18</SimpleData>
+		<SimpleData name="tree_idx">4</SimpleData>
+		<SimpleData name="biomass_kg">380.8577985354697</SimpleData>
+		<SimpleData name="biomass_tonnes">0.3808577985354697</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.628415367583525</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5770679960286,37.2009892414721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">39</SimpleData>
+		<SimpleData name="date">2022/10/19 18:33:03</SimpleData>
+		<SimpleData name="lat">37.2009395208181</SimpleData>
+		<SimpleData name="lon">-80.5771266822269</SimpleData>
+		<SimpleData name="tree_id">65F77C58-E938-4952-851E-C83A35E89F72</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">32.3505192995071</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FF93F240C-A6BE-4B2F-8E99-8F638A5860E3.png?alt=media&amp;token=9082a639-81f8-4264-a91e-0d19f858655f</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F51CBF5B5-21C7-4739-9FAF-A823DE7FDCA6.png?alt=media&amp;token=605c7208-3da5-4fa2-b6d3-90636286a855</SimpleData>
+		<SimpleData name="notes">R18P3</SimpleData>
+		<SimpleData name="row">18</SimpleData>
+		<SimpleData name="tree_idx">3</SimpleData>
+		<SimpleData name="biomass_kg">563.407922668714</SimpleData>
+		<SimpleData name="biomass_tonnes">0.5634079226687141</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.9296230724033783</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5771266822269,37.2009395208181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">40</SimpleData>
+		<SimpleData name="date">2022/10/19 18:35:16</SimpleData>
+		<SimpleData name="lat">37.2009008964889</SimpleData>
+		<SimpleData name="lon">-80.57720739302781</SimpleData>
+		<SimpleData name="tree_id">EF5AD9A5-7462-4B37-8CC2-A40F38BA31C4</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">26.4271289110183</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F67FE1D15-660F-44C3-9704-62C4F9ACC221.png?alt=media&amp;token=2f4831c6-dd62-40d1-88bc-a175604e4ebb</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F7BDFEEE5-2556-4B9E-ACFE-65AC7F8E387F.png?alt=media&amp;token=05f9ab72-4800-4ac7-968e-bc78a821eaf0</SimpleData>
+		<SimpleData name="notes">R18P2</SimpleData>
+		<SimpleData name="row">18</SimpleData>
+		<SimpleData name="tree_idx">2</SimpleData>
+		<SimpleData name="biomass_kg">336.8267228923155</SimpleData>
+		<SimpleData name="biomass_tonnes">0.3368267228923155</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.5557640927723206</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5772073930278,37.2009008964889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">41</SimpleData>
+		<SimpleData name="date">2022/10/19 18:36:38</SimpleData>
+		<SimpleData name="lat">37.2007698125077</SimpleData>
+		<SimpleData name="lon">-80.57725354493451</SimpleData>
+		<SimpleData name="tree_id">0FD64D87-17BD-4518-8171-E3692A329682</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">21.3721975684165</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FAD8A49DF-1557-4453-9E5B-8039DF2FB535.png?alt=media&amp;token=56399954-8394-4461-bd01-f6e3830e7ca3</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FC916EB16-5387-46CD-80FD-75E92A21E5AB.png?alt=media&amp;token=6434f7d5-6028-4001-bd03-f35cc0c0956a</SimpleData>
+		<SimpleData name="notes">R18P1</SimpleData>
+		<SimpleData name="row">18</SimpleData>
+		<SimpleData name="tree_idx">1</SimpleData>
+		<SimpleData name="biomass_kg">196.2796872923473</SimpleData>
+		<SimpleData name="biomass_tonnes">0.1962796872923473</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.3238614840323731</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5772535449345,37.2007698125077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">42</SimpleData>
+		<SimpleData name="date">2022/10/19 18:38:07</SimpleData>
+		<SimpleData name="lat">37.2009514086294</SimpleData>
+		<SimpleData name="lon">-80.5772708170866</SimpleData>
+		<SimpleData name="tree_id">F24227CC-D619-44DC-9E49-1FAC8F64FF83</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">33.5433393716812</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F539C4C7A-5FAF-487B-B920-71C17545AB35.png?alt=media&amp;token=21d3a04e-fa9b-44a8-9644-9ca5d93ae434</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FB55E0F95-1432-4A73-AB15-581C10E03C4E.png?alt=media&amp;token=5de7cca4-6714-4f98-8178-40be4890a5d7</SimpleData>
+		<SimpleData name="notes">R19P1</SimpleData>
+		<SimpleData name="row">19</SimpleData>
+		<SimpleData name="tree_idx">1</SimpleData>
+		<SimpleData name="biomass_kg">617.7641946639585</SimpleData>
+		<SimpleData name="biomass_tonnes">0.6177641946639585</SimpleData>
+		<SimpleData name="biomass_TCO2e">1.019310921195532</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5772708170866,37.2009514086294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">43</SimpleData>
+		<SimpleData name="date">2022/10/19 18:39:18</SimpleData>
+		<SimpleData name="lat">37.2009514086294</SimpleData>
+		<SimpleData name="lon">-80.5772343558078</SimpleData>
+		<SimpleData name="tree_id">8BD98225-E465-4D94-AC1D-25B6DF6A7215</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">32.0164799690246</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FBB1C4686-3E07-40D9-AE75-B052C9E5DC80.png?alt=media&amp;token=e27080d1-72e0-41ee-bcd2-f42964c1a06a</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FBFD11E36-ED5C-4E56-BF10-AE32A5804BE6.png?alt=media&amp;token=9d802b37-2ad8-4fb0-b01a-f76f8ecd8161</SimpleData>
+		<SimpleData name="notes">R19P2</SimpleData>
+		<SimpleData name="row">19</SimpleData>
+		<SimpleData name="tree_idx">2</SimpleData>
+		<SimpleData name="biomass_kg">548.7275661267004</SimpleData>
+		<SimpleData name="biomass_tonnes">0.5487275661267004</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.9054004841090556</SimpleData>
+		<SimpleData name="outlier">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5772343558078,37.2009514086294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">44</SimpleData>
+		<SimpleData name="date">2022/10/19 18:40:36</SimpleData>
+		<SimpleData name="lat">37.2011270792755</SimpleData>
+		<SimpleData name="lon">-80.5771478179806</SimpleData>
+		<SimpleData name="tree_id">CB7D53AA-AD10-48F6-8ECB-4F74D3781EFB</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">25.6752908229827</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F59FD0B1F-5CFA-4134-85D0-DC18661AE6D3.png?alt=media&amp;token=92211ba5-e581-4fd0-812c-22efadd5b0eb</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FB904D3FD-1231-4409-8007-7F16BB62E0CA.png?alt=media&amp;token=6f084232-00eb-4bd3-89dc-1cd1b2a55a6d</SimpleData>
+		<SimpleData name="notes">R19P3</SimpleData>
+		<SimpleData name="row">19</SimpleData>
+		<SimpleData name="tree_idx">3</SimpleData>
+		<SimpleData name="biomass_kg">312.9840804348136</SimpleData>
+		<SimpleData name="biomass_tonnes">0.3129840804348136</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.5164237327174425</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5771478179806,37.2011270792755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">45</SimpleData>
+		<SimpleData name="date">2022/10/19 18:43:32</SimpleData>
+		<SimpleData name="lat">37.2011865210135</SimpleData>
+		<SimpleData name="lon">-80.5772343558078</SimpleData>
+		<SimpleData name="tree_id">37D01D01-DDDC-48CE-9270-540D9C3B408D</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">27.2918194532394</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F49B47D8C-6A1C-4A99-8150-0EEA97583DCC.png?alt=media&amp;token=62791b75-597c-4765-b66f-6d5c77d13ebf</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F66DE3E7C-5431-4446-A004-0FE73450D904.png?alt=media&amp;token=09103974-92ab-4cf2-a41a-372c91b8d0a7</SimpleData>
+		<SimpleData name="notes">R20P3</SimpleData>
+		<SimpleData name="row">20</SimpleData>
+		<SimpleData name="tree_idx">3</SimpleData>
+		<SimpleData name="biomass_kg">365.5727716272809</SimpleData>
+		<SimpleData name="biomass_tonnes">0.3655727716272809</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.6031950731850134</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5772343558078,37.2011865210135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">46</SimpleData>
+		<SimpleData name="date">2022/10/19 18:44:47</SimpleData>
+		<SimpleData name="lat">37.2011270792755</SimpleData>
+		<SimpleData name="lon">-80.5772708170866</SimpleData>
+		<SimpleData name="tree_id">8703AE4C-12DD-47BE-B55D-BB13DCB1E198</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">35.5882585048675</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F1D09A1B5-A382-4E66-9157-D937965754D8.png?alt=media&amp;token=d6bf9ab6-af13-4e6f-8559-ae598c1ceeb9</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F9A7ED770-2EDB-4AF6-A63C-79A0AF4A1E5D.png?alt=media&amp;token=4ad79f00-9e11-49b4-9acf-b8511c48560e</SimpleData>
+		<SimpleData name="notes">R20P2</SimpleData>
+		<SimpleData name="row">20</SimpleData>
+		<SimpleData name="tree_idx">2</SimpleData>
+		<SimpleData name="biomass_kg">718.1198696056291</SimpleData>
+		<SimpleData name="biomass_tonnes">0.7181198696056291</SimpleData>
+		<SimpleData name="biomass_TCO2e">1.184897784849288</SimpleData>
+		<SimpleData name="outlier">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5772708170866,37.2011270792755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">47</SimpleData>
+		<SimpleData name="date">2022/10/19 18:46:34</SimpleData>
+		<SimpleData name="lat">37.2010340961042</SimpleData>
+		<SimpleData name="lon">-80.57743585676</SimpleData>
+		<SimpleData name="tree_id">F3BCC30C-8893-4AA5-B937-ABA4C46EA36A</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">29.7576189041137</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F100FC72C-CC0A-464A-8268-88983EF0ABE8.png?alt=media&amp;token=d56fc419-0fe8-4e8c-89c0-2d8244888a70</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FB405FF92-D4DF-4C7C-8553-1945FCC63F35.png?alt=media&amp;token=e1d099eb-1579-46aa-bb75-1432e3487e2a</SimpleData>
+		<SimpleData name="notes">R20P1</SimpleData>
+		<SimpleData name="row">20</SimpleData>
+		<SimpleData name="tree_idx">1</SimpleData>
+		<SimpleData name="biomass_kg">455.5433194059599</SimpleData>
+		<SimpleData name="biomass_tonnes">0.4555433194059599</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.7516464770198339</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.57743585676,37.2010340961042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">48</SimpleData>
+		<SimpleData name="date">2022/10/19 18:48:01</SimpleData>
+		<SimpleData name="lat">37.2011700505737</SimpleData>
+		<SimpleData name="lon">-80.57748891420709</SimpleData>
+		<SimpleData name="tree_id">D733E342-14AD-4F60-A0D7-16152CE95733</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">29.6867072582244</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F480303BE-8EB0-4E71-BBF5-873509367274.png?alt=media&amp;token=27f8a208-221e-4f6a-abfb-cee5f20ae5c2</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FC47FF0D1-BD41-4DF5-B6B8-5A6E459865C9.png?alt=media&amp;token=59e8a11b-020a-4972-9d4c-72f024e2246f</SimpleData>
+		<SimpleData name="notes">R21P1</SimpleData>
+		<SimpleData name="row">21</SimpleData>
+		<SimpleData name="tree_idx">1</SimpleData>
+		<SimpleData name="biomass_kg">452.7870873911405</SimpleData>
+		<SimpleData name="biomass_tonnes">0.4527870873911405</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.7470986941953818</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5774889142071,37.2011700505737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">49</SimpleData>
+		<SimpleData name="date">2022/10/19 18:50:24</SimpleData>
+		<SimpleData name="lat">37.2011270792755</SimpleData>
+		<SimpleData name="lon">-80.5772708170866</SimpleData>
+		<SimpleData name="tree_id">623AAB9A-8027-4076-AF2F-7205DC5B60F4</SimpleData>
+		<SimpleData name="species">Black Walnut</SimpleData>
+		<SimpleData name="diam_app (cm)">28.871876001358</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F2EEF2A36-E1E9-4D82-95D0-35FFB3066497.png?alt=media&amp;token=175b4a09-3354-4c26-8112-2e4100aa8406</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2FE4E914D5-F1C1-4098-B4ED-1162ADE784A7.png?alt=media&amp;token=d9a7d7b7-90cd-46eb-a20a-ecc53d2ebbe4</SimpleData>
+		<SimpleData name="notes">R21P2</SimpleData>
+		<SimpleData name="row">21</SimpleData>
+		<SimpleData name="tree_idx">2</SimpleData>
+		<SimpleData name="biomass_kg">421.8404921096031</SimpleData>
+		<SimpleData name="biomass_tonnes">0.4218404921096031</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.6960368119808451</SimpleData>
+		<SimpleData name="outlier">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5772708170866,37.2011270792755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#kentland">
+		<SimpleData name="index">106</SimpleData>
+		<SimpleData name="date">2022/10/21 17:33:18</SimpleData>
+		<SimpleData name="lat">37.2004779149193</SimpleData>
+		<SimpleData name="lon">-80.5765333772456</SimpleData>
+		<SimpleData name="tree_id">13910876-92C9-4276-B760-4F5BB0D951E4</SimpleData>
+		<SimpleData name="species">Honey Locust</SimpleData>
+		<SimpleData name="diam_app (cm)">22.806841135025</SimpleData>
+		<SimpleData name="height_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F116B0495-09F9-4275-83EC-68AF56E817F8.png?alt=media&amp;token=7794ce1d-cf15-4302-99b8-220d38c986ce</SimpleData>
+		<SimpleData name="diam_url">https://firebasestorage.googleapis.com:443/v0/b/working-trees.appspot.com/o/trees%2F49A2A977-A31F-49E8-A5D9-4ADB816013DE.png?alt=media&amp;token=d3a80c60-6826-4d38-9268-eae4bf458c95</SimpleData>
+		<SimpleData name="notes">R12;p5</SimpleData>
+		<SimpleData name="row">12</SimpleData>
+		<SimpleData name="tree_idx">5</SimpleData>
+		<SimpleData name="biomass_kg">260.5395778389885</SimpleData>
+		<SimpleData name="biomass_tonnes">0.2605395778389885</SimpleData>
+		<SimpleData name="biomass_TCO2e">0.429890303434331</SimpleData>
+		<SimpleData name="outlier">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.5765333772456,37.2004779149193</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
